@@ -1,0 +1,7 @@
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:18.138 ServerManager:20 - starting appium server
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:21.456 ServerManager:29 - Appium server started
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:21.457 DriverManager:30 - initializing Appium Driver
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:21.477 PropertyManager:15 - loading config properties
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:21.478 CapabilitiesManager:18 - getting Capabilities
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:21.483 CapabilitiesManager:34 - appUrl isC:\QA\src\test\resources\apps\app-release.apk
+[Android_Pixel2 API28 INFO ] 2020-05-25 09:39:36.157 DriverManager:42 - driver is initialized

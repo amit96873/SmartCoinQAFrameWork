@@ -1,0 +1,357 @@
+[Android_Pixel2 INFO ] 2020-05-25 10:02:45.085 ServerManager:20 - starting appium server
+[Android_Pixel2 INFO ] 2020-05-25 10:02:49.480 ServerManager:29 - Appium server started
+[Android_Pixel2 INFO ] 2020-05-25 10:02:49.532 DriverManager:30 - initializing Appium Driver
+[Android_Pixel2 INFO ] 2020-05-25 10:02:49.581 PropertyManager:15 - loading config properties
+[Android_Pixel2 INFO ] 2020-05-25 10:02:49.583 CapabilitiesManager:18 - getting Capabilities
+[Android_Pixel2 INFO ] 2020-05-25 10:02:49.588 CapabilitiesManager:34 - appUrl isC:\QA\src\test\resources\apps\app-release.apk
+[Android_Pixel2 INFO ] 2020-05-25 10:03:04.255 DriverManager:42 - driver is initialized
+[Android_Pixel2 INFO ] 2020-05-25 10:03:08.812 BasePage:58 - press on signup button
+[Android_Pixel2 INFO ] 2020-05-25 10:03:12.344 BasePage:58 - press on english language button
+[Android_Pixel2 INFO ] 2020-05-25 10:03:13.162 BasePage:58 - press on continue button signup
+[Android_Pixel2 INFO ] 2020-05-25 10:03:16.726 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:19.333 BasePage:75 - Full Name is:-  Am@#2it
+[Android_Pixel2 INFO ] 2020-05-25 10:03:22.054 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:25.199 BasePage:75 - Mobile Number is :-9848370141
+[Android_Pixel2 INFO ] 2020-05-25 10:03:27.533 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:03:28.646 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:03:30.585 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with invalid name and valid mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:03:31.551 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:34.502 BasePage:75 - Full Name is:-  Amit Kumar
+[Android_Pixel2 INFO ] 2020-05-25 10:03:36.874 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:39.098 BasePage:75 - Mobile Number is :-98@#233465
+[Android_Pixel2 INFO ] 2020-05-25 10:03:41.968 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:03:43.164 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:03:44.726 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with Valid name and Invalid mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:03:45.793 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:48.596 BasePage:75 - Full Name is:-  *&dfg45Am(8it5*
+[Android_Pixel2 INFO ] 2020-05-25 10:03:50.756 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:03:53.000 BasePage:75 - Mobile Number is :-98gh46tr%$gdh$%
+[Android_Pixel2 INFO ] 2020-05-25 10:03:55.183 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:03:56.216 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:03:56.598 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:03:58.109 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with Invalid name and Invalid mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:03:59.041 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:02.303 BasePage:75 - Full Name is:-  
+[Android_Pixel2 INFO ] 2020-05-25 10:04:04.276 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:06.511 BasePage:75 - Mobile Number is :-
+[Android_Pixel2 INFO ] 2020-05-25 10:04:09.598 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:04:10.755 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:04:11.175 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:04:12.682 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with empty name and empty mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:04:13.676 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:16.713 BasePage:75 - Full Name is:-  
+[Android_Pixel2 INFO ] 2020-05-25 10:04:18.611 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:20.869 BasePage:75 - Mobile Number is :-9hsuw54672
+[Android_Pixel2 INFO ] 2020-05-25 10:04:22.968 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:04:24.305 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:04:24.864 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:04:26.450 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with empty name and invalid mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:04:27.615 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:30.612 BasePage:75 - Full Name is:-  am86575%$&hgjgf
+[Android_Pixel2 INFO ] 2020-05-25 10:04:32.853 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:35.170 BasePage:75 - Mobile Number is :-
+[Android_Pixel2 INFO ] 2020-05-25 10:04:37.474 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:04:39.098 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:04:39.539 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:04:41.185 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with invalid name and emplty mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:04:42.157 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:45.436 BasePage:75 - Full Name is:-  am865ws4575%$&hgjgf
+[Android_Pixel2 INFO ] 2020-05-25 10:04:47.738 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:49.856 BasePage:75 - Mobile Number is :-9848370141232
+[Android_Pixel2 INFO ] 2020-05-25 10:04:51.781 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:04:52.862 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:04:54.405 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with invalid name and 13 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:04:55.394 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:04:58.242 BasePage:75 - Full Name is:-  raja ram mohan ray kalyan pur situation moha saddam hussai hisbul kassab main poiny jahit sai ram sajan sing
+[Android_Pixel2 INFO ] 2020-05-25 10:05:00.423 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:02.908 BasePage:75 - Mobile Number is :-984837014
+[Android_Pixel2 INFO ] 2020-05-25 10:05:05.018 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:05:06.110 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:05:07.691 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with long name and 9 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:05:09.031 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:11.787 BasePage:75 - Full Name is:-  raja ram mohan ramnah mjhgt mhjg
+[Android_Pixel2 INFO ] 2020-05-25 10:05:13.948 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:16.207 BasePage:75 - Mobile Number is :-98483701
+[Android_Pixel2 INFO ] 2020-05-25 10:05:18.160 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:05:19.335 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:05:21.109 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 30 characters name and 8 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:05:21.990 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:25.399 BasePage:75 - Full Name is:-  A
+[Android_Pixel2 INFO ] 2020-05-25 10:05:27.633 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:29.885 BasePage:75 - Mobile Number is :-9848
+[Android_Pixel2 INFO ] 2020-05-25 10:05:31.927 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:05:32.910 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:05:33.368 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:05:35.416 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 1 char name and 4 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:05:36.882 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:39.493 BasePage:75 - Full Name is:-  Am
+[Android_Pixel2 INFO ] 2020-05-25 10:05:45.062 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:05:49.967 BasePage:75 - Mobile Number is :-984837
+[Android_Pixel2 INFO ] 2020-05-25 10:05:53.184 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:05:54.790 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:05:57.344 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 2 char name and 6 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:05:58.894 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:01.874 BasePage:75 - Full Name is:-  Ami
+[Android_Pixel2 INFO ] 2020-05-25 10:06:06.147 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:09.420 BasePage:75 - Mobile Number is :-98483701
+[Android_Pixel2 INFO ] 2020-05-25 10:06:13.582 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:06:16.680 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:06:18.483 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 3 char name and 8 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:06:19.245 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:22.336 BasePage:75 - Full Name is:-  Amit
+[Android_Pixel2 INFO ] 2020-05-25 10:06:24.912 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:27.370 BasePage:75 - Mobile Number is :-98
+[Android_Pixel2 INFO ] 2020-05-25 10:06:30.916 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:06:33.445 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:06:35.230 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 4 char name and 2 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:06:36.386 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:38.753 BasePage:75 - Full Name is:-  Ami
+[Android_Pixel2 INFO ] 2020-05-25 10:06:43.723 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:46.080 BasePage:75 - Mobile Number is :-984
+[Android_Pixel2 INFO ] 2020-05-25 10:06:48.469 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:06:49.468 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:06:51.118 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 3 char name and 3 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:06:52.472 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:06:55.451 BasePage:75 - Full Name is:-  Amit
+[Android_Pixel2 INFO ] 2020-05-25 10:06:57.938 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:00.214 BasePage:75 - Mobile Number is :-98483
+[Android_Pixel2 INFO ] 2020-05-25 10:07:03.127 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:07:04.104 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:07:05.860 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up with 4 char name and 5 digits mobile number.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:07:07.608 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:10.836 BasePage:75 - Full Name is:-  Am@it
+[Android_Pixel2 INFO ] 2020-05-25 10:07:13.165 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:15.860 BasePage:75 - Mobile Number is :-984837@141
+[Android_Pixel2 INFO ] 2020-05-25 10:07:18.734 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:07:20.734 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:07:21.614 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:07:23.370 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(@) and mobile number with special Charachter(@).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:07:24.757 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:27.818 BasePage:75 - Full Name is:-  A..
+[Android_Pixel2 INFO ] 2020-05-25 10:07:30.051 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:32.285 BasePage:75 - Mobile Number is :-984837.141
+[Android_Pixel2 INFO ] 2020-05-25 10:07:34.600 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:07:36.831 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:07:39.154 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(A..) and mobile number with special Charachter(.).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:07:40.240 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:43.032 BasePage:75 - Full Name is:-  ..A
+[Android_Pixel2 INFO ] 2020-05-25 10:07:45.293 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:47.632 BasePage:75 - Mobile Number is :-984837.141
+[Android_Pixel2 INFO ] 2020-05-25 10:07:49.704 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:07:50.967 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:07:52.758 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(..A) and mobile number with special Charachter(.).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:07:53.789 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:07:56.729 BasePage:75 - Full Name is:-  .A
+[Android_Pixel2 INFO ] 2020-05-25 10:07:59.388 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:02.516 BasePage:75 - Mobile Number is :-984837.141
+[Android_Pixel2 INFO ] 2020-05-25 10:08:05.844 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:08:07.346 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:08:09.234 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(.A) and mobile number with special Charachter(.).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:08:10.336 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:13.465 BasePage:75 - Full Name is:-  ..
+[Android_Pixel2 INFO ] 2020-05-25 10:08:15.867 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:19.081 BasePage:75 - Mobile Number is :-984837.141
+[Android_Pixel2 INFO ] 2020-05-25 10:08:21.156 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:08:22.158 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:08:23.936 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(..) and mobile number with special Charachter(.).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:08:24.946 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:27.503 BasePage:75 - Full Name is:-  .
+[Android_Pixel2 INFO ] 2020-05-25 10:08:30.047 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:32.879 BasePage:75 - Mobile Number is :-984837.141
+[Android_Pixel2 INFO ] 2020-05-25 10:08:36.893 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:08:38.054 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:08:38.956 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:08:40.785 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(.) and mobile number with special Charachter(.).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:08:41.797 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:44.615 BasePage:75 - Full Name is:-  Am$it
+[Android_Pixel2 INFO ] 2020-05-25 10:08:47.256 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:08:50.377 BasePage:75 - Mobile Number is :-984837$141
+[Android_Pixel2 INFO ] 2020-05-25 10:08:52.960 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:08:54.296 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:08:56.117 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:08:58.038 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter($) and mobile number with special Charachter($).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:08:59.001 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:02.243 BasePage:75 - Full Name is:-  Am&it
+[Android_Pixel2 INFO ] 2020-05-25 10:09:04.786 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:07.201 BasePage:75 - Mobile Number is :-984837&141
+[Android_Pixel2 INFO ] 2020-05-25 10:09:09.671 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:09:11.194 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:09:12.037 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:09:13.628 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(&) and mobile number with special Charachter(&).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:09:14.531 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:16.986 BasePage:75 - Full Name is:-  Am*it
+[Android_Pixel2 INFO ] 2020-05-25 10:09:19.283 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:21.983 BasePage:75 - Mobile Number is :-984837*141
+[Android_Pixel2 INFO ] 2020-05-25 10:09:23.925 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:09:25.022 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:09:25.892 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:09:27.989 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(*) and mobile number with special Charachter(*).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:09:29.177 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:32.170 BasePage:75 - Full Name is:-  Am#it
+[Android_Pixel2 INFO ] 2020-05-25 10:09:34.085 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:36.866 BasePage:75 - Mobile Number is :-984837#141
+[Android_Pixel2 INFO ] 2020-05-25 10:09:39.362 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:09:40.482 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:09:41.214 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:09:42.980 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(#) and mobile number with special Charachter(#).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:09:44.117 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:47.101 BasePage:75 - Full Name is:-  Am%it
+[Android_Pixel2 INFO ] 2020-05-25 10:09:48.960 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:09:51.197 BasePage:75 - Mobile Number is :-984837%141
+[Android_Pixel2 INFO ] 2020-05-25 10:09:55.623 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:09:56.839 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:09:57.623 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:09:59.402 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(%) and mobile number with special Charachter(%).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:10:00.399 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:04.417 BasePage:75 - Full Name is:-  Am!it
+[Android_Pixel2 INFO ] 2020-05-25 10:10:08.458 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:10.976 BasePage:75 - Mobile Number is :-984837!141
+[Android_Pixel2 INFO ] 2020-05-25 10:10:13.636 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:10:15.082 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:10:15.648 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:10:17.571 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(!) and mobile number with special Charachter(!).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:10:19.008 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:22.395 BasePage:75 - Full Name is:-  Am~it
+[Android_Pixel2 INFO ] 2020-05-25 10:10:24.760 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:29.270 BasePage:75 - Mobile Number is :-984837~141
+[Android_Pixel2 INFO ] 2020-05-25 10:10:31.689 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:10:32.926 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:10:33.473 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:10:35.089 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(~) and mobile number with special Charachter(~).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:10:36.035 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:38.425 BasePage:75 - Full Name is:-  Am^it
+[Android_Pixel2 INFO ] 2020-05-25 10:10:40.805 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:43.276 BasePage:75 - Mobile Number is :-984837^141
+[Android_Pixel2 INFO ] 2020-05-25 10:10:45.378 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:10:46.568 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:10:47.279 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:10:49.421 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(^) and mobile number with special Charachter(^).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:10:50.467 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:53.684 BasePage:75 - Full Name is:-  Am{}it
+[Android_Pixel2 INFO ] 2020-05-25 10:10:56.010 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:10:58.283 BasePage:75 - Mobile Number is :-984837{}141
+[Android_Pixel2 INFO ] 2020-05-25 10:11:00.302 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:11:02.157 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:11:02.861 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:11:04.607 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter({}) and mobile number with special Charachter({}).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:11:05.442 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:08.123 BasePage:75 - Full Name is:-  Am()it
+[Android_Pixel2 INFO ] 2020-05-25 10:11:10.569 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:12.781 BasePage:75 - Mobile Number is :-984837()141
+[Android_Pixel2 INFO ] 2020-05-25 10:11:15.311 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:11:17.000 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:11:17.943 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:11:19.901 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(()) and mobile number with special Charachter(()).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:11:20.932 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:23.789 BasePage:75 - Full Name is:-  Am(%)it
+[Android_Pixel2 INFO ] 2020-05-25 10:11:25.881 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:28.256 BasePage:75 - Mobile Number is :-984837(%)141
+[Android_Pixel2 INFO ] 2020-05-25 10:11:30.211 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:11:31.468 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:11:32.296 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:11:34.195 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter((%)) and mobile number with special Charachter((%)).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:11:35.661 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:38.368 BasePage:75 - Full Name is:-  Am`it
+[Android_Pixel2 INFO ] 2020-05-25 10:11:40.312 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:42.782 BasePage:75 - Mobile Number is :-984837`141
+[Android_Pixel2 INFO ] 2020-05-25 10:11:44.917 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:11:45.995 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:11:46.707 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:11:48.847 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with special charchter(`) and mobile number with special Charachter(`).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:11:49.772 BasePage:58 - press enter name edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:53.043 BasePage:75 - Full Name is:-  Am12it
+[Android_Pixel2 INFO ] 2020-05-25 10:11:55.188 BasePage:58 - press enter mobile number edit text
+[Android_Pixel2 INFO ] 2020-05-25 10:11:57.453 BasePage:75 - Mobile Number is :-984837`141
+[Android_Pixel2 INFO ] 2020-05-25 10:11:59.649 BasePage:58 - Press Register Continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:01.518 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Pixel2 INFO ] 2020-05-25 10:12:02.116 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Pixel2 INFO ] 2020-05-25 10:12:06.731 VideoManager:35 - video path: Android_Pixel2\Videos\Sign up: name with digits and mobile number with special Charachter(`).mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:12:21.357 BasePage:58 - press on title text
+[Android_Pixel2 INFO ] 2020-05-25 10:12:21.570 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Pixel2 INFO ] 2020-05-25 10:12:21.712 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Pixel2 INFO ] 2020-05-25 10:12:21.825 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Pixel2 INFO ] 2020-05-25 10:12:25.044 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on sign in page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:12:25.649 BasePage:58 - press on signin button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:28.842 BasePage:101 - Language Page Title Text is :- Language
+[Android_Pixel2 INFO ] 2020-05-25 10:12:29.156 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Pixel2 INFO ] 2020-05-25 10:12:29.386 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Pixel2 INFO ] 2020-05-25 10:12:30.829 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on Language Page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:12:31.554 BasePage:58 - press on english language button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:32.178 BasePage:58 - press on continue button signin
+[Android_Pixel2 INFO ] 2020-05-25 10:12:36.214 BasePage:101 - Permission page title is:- Permissions
+[Android_Pixel2 INFO ] 2020-05-25 10:12:37.655 VideoManager:35 - video path: Android_Pixel2\Videos\Check English Language and continue button and Permission page Text.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:12:38.327 BasePage:58 - press agree and continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:41.228 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Pixel2 INFO ] 2020-05-25 10:12:41.273 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:42.465 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Pixel2 INFO ] 2020-05-25 10:12:42.513 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:43.704 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Pixel2 INFO ] 2020-05-25 10:12:43.750 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:44.923 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Pixel2 INFO ] 2020-05-25 10:12:44.984 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:12:48.213 BasePage:101 - Sign in With Gmail and Facebook page Title Text is:- Sign in
+[Android_Pixel2 INFO ] 2020-05-25 10:12:50.478 VideoManager:35 - video path: Android_Pixel2\Videos\Check Allow Button And Texts.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:12:51.399 BasePage:58 - press on signin with fb button
+[Android_Pixel2 INFO ] 2020-05-25 10:13:27.687 VideoManager:35 - video path: Android_Pixel2\Videos\Check Log In With FaceBook.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:13:50.269 BasePage:58 - press on title text
+[Android_Pixel2 INFO ] 2020-05-25 10:13:50.475 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Pixel2 INFO ] 2020-05-25 10:13:50.608 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Pixel2 INFO ] 2020-05-25 10:13:50.703 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Pixel2 INFO ] 2020-05-25 10:13:52.442 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on sign in page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:13:53.133 BasePage:58 - press on signin button
+[Android_Pixel2 INFO ] 2020-05-25 10:13:56.662 BasePage:101 - Language Page Title Text is :- Language
+[Android_Pixel2 INFO ] 2020-05-25 10:13:57.097 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Pixel2 INFO ] 2020-05-25 10:13:57.286 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Pixel2 INFO ] 2020-05-25 10:13:58.636 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on Language Page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:13:59.416 BasePage:58 - press on english language button
+[Android_Pixel2 INFO ] 2020-05-25 10:14:00.065 BasePage:58 - press on continue button signin
+[Android_Pixel2 INFO ] 2020-05-25 10:14:03.027 BasePage:101 - Permission page title is:- Permissions
+[Android_Pixel2 INFO ] 2020-05-25 10:14:04.627 VideoManager:35 - video path: Android_Pixel2\Videos\Check English Language and continue button and Permission page title.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:14:05.447 BasePage:58 - press agree and continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:14:07.152 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Pixel2 INFO ] 2020-05-25 10:14:07.185 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:14:09.936 VideoManager:35 - video path: Android_Pixel2\Videos\Check Allow Button And Texts.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:14:43.710 VideoManager:35 - video path: Android_Pixel2\Videos\Check Sign In With Gmail.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:15:00.610 BasePage:58 - press on title text
+[Android_Pixel2 INFO ] 2020-05-25 10:15:00.869 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Pixel2 INFO ] 2020-05-25 10:15:01.898 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Pixel2 INFO ] 2020-05-25 10:15:01.968 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Pixel2 INFO ] 2020-05-25 10:15:04.895 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on sign in page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:15:05.538 BasePage:58 - press on signin button
+[Android_Pixel2 INFO ] 2020-05-25 10:15:09.190 BasePage:101 - Language Page Title Text is :- Language
+[Android_Pixel2 INFO ] 2020-05-25 10:15:09.503 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Pixel2 INFO ] 2020-05-25 10:15:09.742 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Pixel2 INFO ] 2020-05-25 10:15:11.133 VideoManager:35 - video path: Android_Pixel2\Videos\Check Text on Language Page.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:15:11.973 BasePage:58 - press on english language button
+[Android_Pixel2 INFO ] 2020-05-25 10:15:12.591 BasePage:58 - press on continue button signin
+[Android_Pixel2 INFO ] 2020-05-25 10:15:16.185 BasePage:101 - Permission page title is:- Permissions
+[Android_Pixel2 INFO ] 2020-05-25 10:15:16.444 BasePage:101 - Give us the okay key Text is :- Give us the okay
+[Android_Pixel2 INFO ] 2020-05-25 10:15:16.519 BasePage:101 - Give us the okay value Text is :- Smartcoin uses financial data on your phone to unlock suitable loan offers. By continuing, you also agree to our Privacy policy and Terms & Conditions.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:16.771 BasePage:101 - Sms Key text is :- Financial Sms
+[Android_Pixel2 INFO ] 2020-05-25 10:15:17.004 BasePage:101 - Financial sms value Text is :- We collect and monitor financial SMS to create a financial summary for your profile, which includes only financial and transactional SMS about bank related transactions, name of transacting parties, description of the transaction, amount of transaction for performing credit risk assessment - all to provide the best loan offers; and to keep the loan process convenient and seamless. We store this financial information on our secure servers. No personal SMS data is ever collected, read or stored by our app.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:17.435 BasePage:101 - Contacts Key text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Contacts' and @index='0']})Contacts
+[Android_Pixel2 INFO ] 2020-05-25 10:15:17.944 BasePage:101 - Contacts Value Text is:Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]})Our app needs permission to detect your contacts' information, that includes name, phone number, account type, modifications to contact, favorites and other optional data to enrich your financial profile and provide a better understanding of your creditworthiness. We use this information to unlock better loan offers and provide a better user experience for certain features in the app.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:27.946 BasePage:101 - Phone Key Text Is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Phone' and @index='0']})Phone
+[Android_Pixel2 INFO ] 2020-05-25 10:15:28.346 BasePage:101 - Phone Value Text is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.' and @index='1']})Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:36.860 BasePage:101 - Location key text is : Located by By.chained({By.xpath: //android.widget.TextView[@text='Location' and @index='0']})Location
+[Android_Pixel2 INFO ] 2020-05-25 10:15:41.531 BasePage:101 - Location Value text is :Located by By.chained({By.xpath: //android.widget.TextView[@text='We collect and monitor the information about the location of your device to service your loan application, to reduce risk associated with your loan application and to provide better loan offers. This also helps us to verify the address and make a better credit risk decision.' and @index='1']})We collect and monitor the information about the location of your device to service your loan application, to reduce risk associated with your loan application and to provide better loan offers. This also helps us to verify the address and make a better credit risk decision.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:46.253 BasePage:101 - Installed Apps Key Text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Installed Apps' and @index='0']})Installed Apps
+[Android_Pixel2 INFO ] 2020-05-25 10:15:54.751 BasePage:101 - Experian Report key text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Experian Report' and @index='0']})Experian Report
+[Android_Pixel2 INFO ] 2020-05-25 10:15:55.166 BasePage:101 - Installed Apps Value Text is:Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]})We collect each installed applications' metadata information that includes application and package name; installed and updated time; version name and version code for all applications installed on your device. We use this to assess your creditworthiness and provide you with the best loan offers we can.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:55.589 BasePage:101 - Experian Report Value text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='We require authorisation for Smartcoin to fetch your Credit Report from Experian (Credit Information Company) and agree to the Terms and Conditions. This helps in making a better credit risk assessment of your profile and providing the best loan offers to you.' and @index='1']})We require authorisation for Smartcoin to fetch your Credit Report from Experian (Credit Information Company) and agree to the Terms and Conditions. This helps in making a better credit risk assessment of your profile and providing the best loan offers to you.
+[Android_Pixel2 INFO ] 2020-05-25 10:15:57.936 VideoManager:35 - video path: Android_Pixel2\Videos\Check English Language and continue button and Permission page Text by scrolling.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:15:58.732 BasePage:58 - press agree and continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:00.630 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Pixel2 INFO ] 2020-05-25 10:16:00.674 BasePage:58 - press on deny button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:01.886 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Pixel2 INFO ] 2020-05-25 10:16:01.930 BasePage:58 - press on deny button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:03.046 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Pixel2 INFO ] 2020-05-25 10:16:03.095 BasePage:58 - press on deny button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:04.266 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Pixel2 INFO ] 2020-05-25 10:16:04.318 BasePage:58 - press on deny button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:05.905 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Pixel2 INFO ] 2020-05-25 10:16:07.731 VideoManager:35 - video path: Android_Pixel2\Videos\Check deny Button And Texts.mp4
+[Android_Pixel2 INFO ] 2020-05-25 10:16:09.390 BasePage:58 - press agree and continue button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:11.797 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Pixel2 INFO ] 2020-05-25 10:16:12.132 BasePage:58 - press on allow button
+[Android_Pixel2 INFO ] 2020-05-25 10:16:15.842 VideoManager:35 - video path: Android_Pixel2\Videos\Check Allow Button And deny Texts.mp4

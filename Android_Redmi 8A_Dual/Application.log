@@ -1,0 +1,390 @@
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:28.038 ServerManager:20 - starting appium server
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:31.114 ServerManager:29 - Appium server started
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:31.164 DriverManager:30 - initializing Appium Driver
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:31.202 PropertyManager:15 - loading config properties
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:31.203 CapabilitiesManager:18 - getting Capabilities
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:31.206 CapabilitiesManager:34 - appUrl isC:\QA\src\test\resources\apps\app-release.apk
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:49.947 DriverManager:42 - driver is initialized
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:54.931 BasePage:58 - press on signup button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:57.639 BasePage:58 - press on english language button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:12:58.843 BasePage:58 - press on continue button signup
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:01.614 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:09.257 BasePage:75 - Full Name is:-  Am@#2it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:11.603 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:15.678 BasePage:75 - Mobile Number is :-9848370141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:24.937 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with invalid name and valid mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:26.474 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:29.251 BasePage:75 - Full Name is:-  Amit Kumar
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:31.411 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:33.835 BasePage:75 - Mobile Number is :-98@#233465
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:36.586 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:37.852 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:40.291 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with Valid name and Invalid mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:41.681 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:44.406 BasePage:75 - Full Name is:-  *&dfg45Am(8it5*
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:46.467 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:48.837 BasePage:75 - Mobile Number is :-98gh46tr%$gdh$%
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:51.424 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:52.637 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:53.453 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:55.891 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with Invalid name and Invalid mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:57.264 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:13:59.571 BasePage:75 - Full Name is:-  
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:01.640 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:04.105 BasePage:75 - Mobile Number is :-
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:06.623 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:07.858 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:08.702 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:11.151 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with empty name and empty mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:12.510 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:14.815 BasePage:75 - Full Name is:-  
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:16.919 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:19.324 BasePage:75 - Mobile Number is :-9hsuw54672
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:21.780 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:23.020 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:23.768 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:26.175 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with empty name and invalid mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:27.589 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:29.762 BasePage:75 - Full Name is:-  am86575%$&hgjgf
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:31.679 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:34.030 BasePage:75 - Mobile Number is :-
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:37.382 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:38.605 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:39.380 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:41.754 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with invalid name and emplty mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:43.085 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:45.333 BasePage:75 - Full Name is:-  am865ws4575%$&hgjgf
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:47.975 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:50.169 BasePage:75 - Mobile Number is :-9848370141232
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:52.686 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:53.826 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:56.277 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with invalid name and 13 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:14:58.062 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:00.388 BasePage:75 - Full Name is:-  raja ram mohan ray kalyan pur situation moha saddam hussai hisbul kassab main poiny jahit sai ram sajan sing
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:02.798 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:05.106 BasePage:75 - Mobile Number is :-984837014
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:07.515 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:09.549 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:11.971 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with long name and 9 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:13.284 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:15.787 BasePage:75 - Full Name is:-  raja ram mohan ramnah mjhgt mhjg
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:17.753 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:20.239 BasePage:75 - Mobile Number is :-98483701
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:22.672 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:23.827 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:25.735 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 30 characters name and 8 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:27.094 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:29.347 BasePage:75 - Full Name is:-  A
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:31.398 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:33.648 BasePage:75 - Mobile Number is :-9848
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:36.128 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:37.274 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:38.019 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:40.451 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 1 char name and 4 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:41.792 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:44.376 BasePage:75 - Full Name is:-  Am
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:46.340 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:48.666 BasePage:75 - Mobile Number is :-984837
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:51.238 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:52.391 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:54.929 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 2 char name and 6 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:56.244 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:15:58.572 BasePage:75 - Full Name is:-  Ami
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:00.657 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:03.585 BasePage:75 - Mobile Number is :-98483701
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:06.125 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:07.343 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:10.414 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 3 char name and 8 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:12.139 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:14.920 BasePage:75 - Full Name is:-  Amit
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:17.254 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:19.612 BasePage:75 - Mobile Number is :-98
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:21.999 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:23.240 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:25.610 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 4 char name and 2 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:26.934 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:29.308 BasePage:75 - Full Name is:-  Ami
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:31.234 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:33.545 BasePage:75 - Mobile Number is :-984
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:35.987 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:37.142 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:39.543 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 3 char name and 3 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:40.945 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:43.113 BasePage:75 - Full Name is:-  Amit
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:45.097 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:47.323 BasePage:75 - Mobile Number is :-98483
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:50.112 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:51.267 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:52.912 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up with 4 char name and 5 digits mobile number.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:54.207 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:56.454 BasePage:75 - Full Name is:-  Am@it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:16:58.341 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:00.516 BasePage:75 - Mobile Number is :-984837@141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:03.274 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:04.406 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:05.684 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:08.088 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(@) and mobile number with special Charachter(@).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:09.394 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:11.554 BasePage:75 - Full Name is:-  A..
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:13.473 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:15.802 BasePage:75 - Mobile Number is :-984837.141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:18.221 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:19.319 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:21.724 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(A..) and mobile number with special Charachter(.).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:23.014 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:25.434 BasePage:75 - Full Name is:-  ..A
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:27.502 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:29.737 BasePage:75 - Mobile Number is :-984837.141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:32.087 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:33.204 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:35.565 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(..A) and mobile number with special Charachter(.).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:36.848 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:39.030 BasePage:75 - Full Name is:-  .A
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:40.917 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:43.370 BasePage:75 - Mobile Number is :-984837.141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:45.796 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:46.926 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:48.571 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(.A) and mobile number with special Charachter(.).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:50.574 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:52.806 BasePage:75 - Full Name is:-  ..
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:54.702 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:57.068 BasePage:75 - Mobile Number is :-984837.141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:17:59.398 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:00.500 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:02.794 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(..) and mobile number with special Charachter(.).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:04.198 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:06.475 BasePage:75 - Full Name is:-  .
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:08.404 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:10.576 BasePage:75 - Mobile Number is :-984837.141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:12.967 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:14.160 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:14.950 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:17.973 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(.) and mobile number with special Charachter(.).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:19.280 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:21.817 BasePage:75 - Full Name is:-  Am$it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:23.768 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:25.774 BasePage:75 - Mobile Number is :-984837$141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:29.191 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:30.445 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:31.220 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:34.298 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter($) and mobile number with special Charachter($).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:35.674 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:37.840 BasePage:75 - Full Name is:-  Am&it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:40.230 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:42.308 BasePage:75 - Mobile Number is :-984837&141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:45.168 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:46.275 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:46.982 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:49.384 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(&) and mobile number with special Charachter(&).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:50.735 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:53.110 BasePage:75 - Full Name is:-  Am*it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:54.984 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:18:57.313 BasePage:75 - Mobile Number is :-984837*141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:00.382 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:01.860 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:02.553 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:04.123 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(*) and mobile number with special Charachter(*).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:05.492 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:07.748 BasePage:75 - Full Name is:-  Am#it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:09.706 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:12.298 BasePage:75 - Mobile Number is :-984837#141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:14.669 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:15.799 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:16.503 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:18.776 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(#) and mobile number with special Charachter(#).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:20.563 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:23.102 BasePage:75 - Full Name is:-  Am%it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:25.057 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:27.334 BasePage:75 - Mobile Number is :-984837%141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:29.791 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:30.912 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:31.609 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:34.057 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(%) and mobile number with special Charachter(%).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:35.358 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:37.472 BasePage:75 - Full Name is:-  Am!it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:39.402 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:41.827 BasePage:75 - Mobile Number is :-984837!141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:44.198 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:45.329 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:46.026 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:48.328 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(!) and mobile number with special Charachter(!).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:49.661 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:51.866 BasePage:75 - Full Name is:-  Am~it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:53.812 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:56.004 BasePage:75 - Mobile Number is :-984837~141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:58.386 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:19:59.508 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:00.198 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:02.592 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(~) and mobile number with special Charachter(~).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:03.935 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:06.101 BasePage:75 - Full Name is:-  Am^it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:08.081 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:11.068 BasePage:75 - Mobile Number is :-984837^141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:13.718 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:14.869 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:15.631 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:17.320 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(^) and mobile number with special Charachter(^).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:18.650 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:21.201 BasePage:75 - Full Name is:-  Am{}it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:22.863 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:25.026 BasePage:75 - Mobile Number is :-984837{}141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:27.412 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:28.594 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:29.311 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:31.721 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter({}) and mobile number with special Charachter({}).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:33.065 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:35.439 BasePage:75 - Full Name is:-  Am()it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:37.307 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:39.408 BasePage:75 - Mobile Number is :-984837()141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:41.763 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:42.890 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:43.578 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:45.859 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(()) and mobile number with special Charachter(()).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:47.163 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:49.468 BasePage:75 - Full Name is:-  Am(%)it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:51.401 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:53.470 BasePage:75 - Mobile Number is :-984837(%)141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:55.832 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:56.943 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:20:57.631 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:00.030 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter((%)) and mobile number with special Charachter((%)).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:01.803 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:04.860 BasePage:75 - Full Name is:-  Am`it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:06.703 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:08.789 BasePage:75 - Mobile Number is :-984837`141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:11.741 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:12.992 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:13.762 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:16.143 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with special charchter(`) and mobile number with special Charachter(`).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:17.487 BasePage:58 - press enter name edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:19.712 BasePage:75 - Full Name is:-  Am12it
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:21.694 BasePage:58 - press enter mobile number edit text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:23.811 BasePage:75 - Mobile Number is :-984837`141
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:26.321 BasePage:58 - Press Register Continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:27.447 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:28.180 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:31.244 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Sign up: name with digits and mobile number with special Charachter(`).mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:44.237 BasePage:58 - press on title text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:44.484 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:44.623 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:44.736 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:48.635 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on sign in page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:50.049 BasePage:58 - press on signin button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:52.827 BasePage:101 - Language Page Title Text is :- Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:53.263 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:53.675 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:56.144 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on Language Page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:57.330 BasePage:58 - press on english language button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:21:58.122 BasePage:58 - press on continue button signin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:00.685 BasePage:101 - Permission page title is:- Permissions
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:03.166 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check English Language and continue button and Permission page Text.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:04.430 BasePage:58 - press agree and continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:06.363 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:06.423 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:07.871 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:07.944 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:11.561 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Allow Button And Texts.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:25.638 BasePage:58 - press on signin with fb button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:37.003 BasePage:101 - FaceBook Page Title Text is:-facebook
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:39.303 BasePage:75 - UserName is:-  amit96873@gmail.com
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:42.760 BasePage:75 - Password is:-  8226993297
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:44.926 BasePage:58 - Press On Login Button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:22:51.095 BasePage:58 - Press On Continue LoginButton
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:09.871 BasePage:58 - Press Digit One(1)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:11.004 BasePage:58 - Press Digit Two(2)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:12.070 BasePage:58 - Press Digit Three(3)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:13.096 BasePage:58 - Press Digit Four(4)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:14.839 BasePage:101 - textConfirm your 4-digit Pin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:15.082 BasePage:58 - Press Digit One(1)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:16.138 BasePage:58 - Press Digit Two(2)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:17.208 BasePage:58 - Press Digit Three(3)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:18.225 BasePage:58 - Press Digit Four(4)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:22.394 BasePage:101 - Home Page Title Text is :- SmartCoin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:30.977 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Log In With FaceBook.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:42.965 BasePage:58 - press on title text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:43.171 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:43.298 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:43.415 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:46.844 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on sign in page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:47.914 BasePage:58 - press on signin button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:50.726 BasePage:101 - Language Page Title Text is :- Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:51.098 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:51.472 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:54.044 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on Language Page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:55.378 BasePage:58 - press on english language button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:56.783 BasePage:58 - press on continue button signin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:23:59.360 BasePage:101 - Permission page title is:- Permissions
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:01.943 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check English Language and continue button and Permission page title.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:03.135 BasePage:58 - press agree and continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:04.979 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:05.058 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:06.392 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:06.459 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:10.260 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Allow Button And Texts.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:15.688 BasePage:58 - press on signin with gmail button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:20.402 BasePage:101 - Gmail Page Title Text is:-Choose an account
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:20.567 BasePage:58 - Press On Gmail Id
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:38.059 BasePage:58 - Press Digit One(1)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:39.131 BasePage:58 - Press Digit Two(2)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:40.113 BasePage:58 - Press Digit Three(3)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:41.154 BasePage:58 - Press Digit Four(4)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:42.895 BasePage:101 - textConfirm your 4-digit Pin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:43.132 BasePage:58 - Press Digit One(1)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:44.228 BasePage:58 - Press Digit Two(2)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:45.240 BasePage:58 - Press Digit Three(3)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:46.205 BasePage:58 - Press Digit Four(4)
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:50.724 BasePage:101 - Home Page Title Text is :- SmartCoin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:24:57.732 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Sign In With Gmail.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:09.392 BasePage:58 - press on title text
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:09.638 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:09.766 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:09.880 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:12.909 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on sign in page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:13.959 BasePage:58 - press on signin button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:16.722 BasePage:101 - Language Page Title Text is :- Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:17.157 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:17.593 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:20.061 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Text on Language Page.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:21.295 BasePage:58 - press on english language button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:22.089 BasePage:58 - press on continue button signin
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:24.578 BasePage:101 - Permission page title is:- Permissions
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:25.003 BasePage:101 - Give us the okay key Text is :- Give us the okay
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:25.158 BasePage:101 - Give us the okay value Text is :- Smartcoin uses financial data on your phone to unlock suitable loan offers. By continuing, you also agree to our Privacy policy and Terms & Conditions.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:25.616 BasePage:101 - Sms Key text is :- Financial Sms
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:26.092 BasePage:101 - Financial sms value Text is :- We collect and monitor financial SMS to create a financial summary for your profile, which includes only financial and transactional SMS about bank related transactions, name of transacting parties, description of the transaction, amount of transaction for performing credit risk assessment - all to provide the best loan offers; and to keep the loan process convenient and seamless. We store this financial information on our secure servers. No personal SMS data is ever collected, read or stored by our app.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:26.893 BasePage:101 - Contacts Key text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Contacts' and @index='0']})Contacts
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:27.600 BasePage:101 - Contacts Value Text is:Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]})Our app needs permission to detect your contacts' information, that includes name, phone number, account type, modifications to contact, favorites and other optional data to enrich your financial profile and provide a better understanding of your creditworthiness. We use this information to unlock better loan offers and provide a better user experience for certain features in the app.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:35.525 BasePage:101 - Phone Key Text Is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Phone' and @index='0']})Phone
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:37.621 BasePage:101 - Phone Value Text is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.' and @index='1']})Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:45.938 BasePage:101 - Location key text is : Located by By.chained({By.xpath: //android.widget.TextView[@text='Location' and @index='0']})Location
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:46.833 BasePage:101 - Location Value text is :Located by By.chained({By.xpath: //android.widget.TextView[@text='We collect and monitor the information about the location of your device to service your loan application, to reduce risk associated with your loan application and to provide better loan offers. This also helps us to verify the address and make a better credit risk decision.' and @index='1']})We collect and monitor the information about the location of your device to service your loan application, to reduce risk associated with your loan application and to provide better loan offers. This also helps us to verify the address and make a better credit risk decision.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:54.538 BasePage:101 - Installed Apps Key Text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Installed Apps' and @index='0']})Installed Apps
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:25:59.317 BasePage:101 - Experian Report key text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Experian Report' and @index='0']})Experian Report
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:00.289 BasePage:101 - Installed Apps Value Text is:Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]})We collect each installed applications' metadata information that includes application and package name; installed and updated time; version name and version code for all applications installed on your device. We use this to assess your creditworthiness and provide you with the best loan offers we can.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:03.947 BasePage:101 - Experian Report Value text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='We require authorisation for Smartcoin to fetch your Credit Report from Experian (Credit Information Company) and agree to the Terms and Conditions. This helps in making a better credit risk assessment of your profile and providing the best loan offers to you.' and @index='1']})We require authorisation for Smartcoin to fetch your Credit Report from Experian (Credit Information Company) and agree to the Terms and Conditions. This helps in making a better credit risk assessment of your profile and providing the best loan offers to you.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:07.852 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check English Language and continue button and Permission page Text by scrolling.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:09.472 BasePage:58 - press agree and continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:11.500 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:11.551 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:12.643 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:12.724 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:13.791 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:13.858 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:14.941 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:14.998 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:16.878 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:20.612 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check deny Button And Texts.mp4
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:44.611 BasePage:58 - press agree and continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:46.294 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:46.356 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:47.392 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:47.469 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:48.571 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:48.640 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:50.103 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:50.170 BasePage:58 - press on deny button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:51.870 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:54.635 BasePage:58 - press agree and continue button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:55.927 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:26:55.989 BasePage:58 - press on allow button
+[Android_Redmi 8A_Dual INFO ] 2020-05-23 20:27:00.795 VideoManager:35 - video path: Android_Redmi 8A_Dual\Videos\Check Allow Button And deny Texts.mp4
