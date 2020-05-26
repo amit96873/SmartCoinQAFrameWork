@@ -1,6 +1,7 @@
 package com.qa.stepdef;
 import com.qa.pages.*;
 import io.appium.java_client.AppiumDriver;
+import io.cucumber.java.af.En;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -323,5 +324,49 @@ public class SignInSignUpStepDef {
     @And("^i clicked on gmail id$")
     public void iClickedOnGmailId() {
         new GmailPage().pressGmailId();
+    }
+
+    @Then("^registration should passed and jump to the permission Page with title\"([^\"]*)\"$")
+    public void registrationShouldPassedAndJumpToThePermissionPageWithTitle(String title) {
+
+        Assert.assertTrue(new PermissionPage().getTitlepermission().equalsIgnoreCase(title));
+
+    }
+
+    @Then("^i should get Sign up With Gmail Page Title as\"([^\"]*)\"$")
+    public void iShouldGetSignUpWithGmailPageTitleAs(String title) {
+
+        Assert.assertTrue(new SignUpWithGmailPage().getTitleSignUpWithGmail().equalsIgnoreCase(title));
+    }
+
+
+    @When("^i clicked on sign up with gmail$")
+    public void iClickedOnSignUpWithGmail() {
+        new SignUpWithGmailPage().pressGmailBtn();
+    }
+
+    @And("^i clicked on Don't Ask Again check box$")
+    public void iClickedOnDonTAskAgainCheckBox() {
+        new PermissionPage().pressCheckBoxDontAskAgain();
+    }
+
+    @When("i open the app")
+    public void iOpenTheApp() {
+       new EnterPasswordPage();
+
+    }
+
+    @Then("i should get enter Password Page with title{string}")
+    public void iShouldGetEnterPasswordPageWithTitle(String title) {
+        Assert.assertTrue(new EnterPasswordPage().getTitleEnterPassword().equalsIgnoreCase(title));
+    }
+
+    @When("i enter one two three four as enter password")
+    public void iEnterOneTwoThreeFourAsEnterPassword() {
+        new EnterPasswordPage().pressOne();
+        new EnterPasswordPage().pressTwo();
+        new EnterPasswordPage().pressThree();
+        new EnterPasswordPage().pressFour4();
+
     }
 }

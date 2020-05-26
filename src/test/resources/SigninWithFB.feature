@@ -56,7 +56,12 @@ Feature: Sign in Text Quality check With Facebook
     Then i should get confirm password pas with title"<COTitle>"
     And i enter one two three four as confirm password
     Then i should get Home Page Of SmartCoin with Title"<HTitle>"
-    And i closed the App
     Examples:
       | fb | username | password | title | CTitle |COTitle| HTitle |
       | Facebook | amit96873@gmail.com | 8226993297 | Log in with Facebook | Create a 4-digit pin |Confirm your 4-digit Pin| SmartCoin |
+
+
+  Scenario Outline: closed App
+    Given i closed the App
+    Examples:
+      |  |

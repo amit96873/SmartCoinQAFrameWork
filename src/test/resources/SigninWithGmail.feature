@@ -51,7 +51,12 @@ Feature: Sign in Text Quality check with gmail
     Then i should get confirm password pas with title"<CFTitle>"
     And i enter one two three four as confirm password
     Then  i should get Home Page Of SmartCoin with Title"<HTitle>"
-    And i closed the App
     Examples:
       | title | CTitle | CFTitle | HTitle |
       | Choose an account | Create a 4-digit Pin | Confirm your 4-digit Pin | SmartCoin |
+
+
+  Scenario Outline: closed App
+    Given i closed the App
+    Examples:
+      |  |

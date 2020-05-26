@@ -49,9 +49,5 @@ public class LanguagePage extends BasePage {
 		click(continuebutton, "press on continue button signup");
 		return new RegisterNameMobileNumberPage();
 	}
-	public RegisterNameMobileNumberPage langToRegistration() {
-		click(englishlanguagebutton,"press on select english language button");
-		click(continuebutton,"press on continue button");
-		return new RegisterNameMobileNumberPage();
-	}
+
 }

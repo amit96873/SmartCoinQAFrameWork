@@ -13,14 +13,16 @@
         </classes>
     </test>
 
-    <test name="Pixel2">
-        <parameter name="platformName" value="Android" />
-        <parameter name="udid" value="emulator-5554" />
-        <parameter name="deviceName" value="Pixel2" />
-        <parameter name="systemPort" value="10001" />
-        <parameter name="chromeDriverPort" value="11001" />
-        <classes>
-            <class name="com.qa.runners.MyPixel2AMyTestNGRunnerTest"></class>
-        </classes>
-    </test>
+<!--    <test name="Z50">-->
+<!--        <parameter name="platformName" value="Android" />-->
+<!--        <parameter name="udid" value="Z50418GA426239" />-->
+<!--        <parameter name="deviceName" value="Z50" />-->
+<!--        <parameter name="systemPort" value="10001" />-->
+<!--        <parameter name="chromeDriverPort" value="11001" />-->
+<!--        <classes>-->
+<!--            <class name="com.qa.runners.MyPixel2AMyTestNGRunnerTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+
 </suite> <!-- Suite -->

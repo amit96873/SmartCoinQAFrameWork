@@ -14,7 +14,7 @@ import java.io.IOException;
 
 public class Hooks {
     @Before
-    public void initialize() throws IOException {
+    public void initialize(Scenario scenario) throws IOException {
         /*GlobalParams params = new GlobalParams();
         params.initializeGlobalParams();
 
@@ -22,7 +22,9 @@ public class Hooks {
 
         new ServerManager().startServer();
         new DriverManager().initializeDriver();*/
-        new VideoManager().startRecording();
+//        new VideoManager().startRecording();
+        byte[] screenshot = new DriverManager().getDriver().getScreenshotAs(OutputType.BYTES);
+        scenario.embed(screenshot, "image/png", scenario.getName());
     }
 
 
@@ -32,8 +34,7 @@ public class Hooks {
             byte[] screenshot = new DriverManager().getDriver().getScreenshotAs(OutputType.BYTES);
             scenario.embed(screenshot, "image/png", scenario.getName());
 
-
-        new VideoManager().stopRecording(scenario.getName());
+//        new VideoManager().stopRecording(scenario.getName());
         /*DriverManager driverManager = new DriverManager();
         if (driverManager.getDriver() !=null){
             driverManager.getDriver().quit();

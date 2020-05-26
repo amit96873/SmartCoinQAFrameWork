@@ -1,0 +1,325 @@
+[Android_Z50 INFO ] 2020-05-25 19:30:10.983 ServerManager:20 - starting appium server
+[Android_Z50 INFO ] 2020-05-25 19:30:14.176 ServerManager:29 - Appium server started
+[Android_Z50 INFO ] 2020-05-25 19:30:14.176 DriverManager:30 - initializing Appium Driver
+[Android_Z50 INFO ] 2020-05-25 19:30:14.197 PropertyManager:15 - loading config properties
+[Android_Z50 INFO ] 2020-05-25 19:30:14.198 CapabilitiesManager:18 - getting Capabilities
+[Android_Z50 INFO ] 2020-05-25 19:30:14.201 CapabilitiesManager:34 - appUrl isC:\QA\src\test\resources\apps\app-release.apk
+[Android_Z50 INFO ] 2020-05-25 19:30:40.630 DriverManager:42 - driver is initialized
+[Android_Z50 INFO ] 2020-05-25 19:30:47.115 BasePage:58 - press on signup button
+[Android_Z50 INFO ] 2020-05-25 19:30:50.932 BasePage:58 - press on english language button
+[Android_Z50 INFO ] 2020-05-25 19:30:52.180 BasePage:58 - press on continue button signup
+[Android_Z50 INFO ] 2020-05-25 19:30:55.523 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:30:59.020 BasePage:75 - Full Name is:-  Am@#2it
+[Android_Z50 INFO ] 2020-05-25 19:31:02.807 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:05.805 BasePage:75 - Mobile Number is :-9848370141
+[Android_Z50 INFO ] 2020-05-25 19:31:09.375 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:31:10.853 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:31:12.399 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:16.039 BasePage:75 - Full Name is:-  Amit Kumar
+[Android_Z50 INFO ] 2020-05-25 19:31:19.195 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:22.037 BasePage:75 - Mobile Number is :-98@#233465
+[Android_Z50 INFO ] 2020-05-25 19:31:25.095 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:31:26.425 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:31:27.755 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:30.930 BasePage:75 - Full Name is:-  *&dfg45Am(8it5*
+[Android_Z50 INFO ] 2020-05-25 19:31:33.912 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:36.766 BasePage:75 - Mobile Number is :-98gh46tr%$gdh$%
+[Android_Z50 INFO ] 2020-05-25 19:31:39.651 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:31:40.953 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:31:41.986 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:31:43.465 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:46.590 BasePage:75 - Full Name is:-  
+[Android_Z50 INFO ] 2020-05-25 19:31:49.204 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:31:51.944 BasePage:75 - Mobile Number is :-
+[Android_Z50 INFO ] 2020-05-25 19:31:54.754 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:31:56.017 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:31:56.904 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:31:58.296 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:01.392 BasePage:75 - Full Name is:-  
+[Android_Z50 INFO ] 2020-05-25 19:32:04.056 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:06.766 BasePage:75 - Mobile Number is :-9hsuw54672
+[Android_Z50 INFO ] 2020-05-25 19:32:09.526 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:32:10.773 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:32:11.647 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:32:13.017 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:15.809 BasePage:75 - Full Name is:-  am86575%$&hgjgf
+[Android_Z50 INFO ] 2020-05-25 19:32:18.950 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:21.680 BasePage:75 - Mobile Number is :-
+[Android_Z50 INFO ] 2020-05-25 19:32:24.498 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:32:25.769 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:32:26.644 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:32:28.023 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:31.207 BasePage:75 - Full Name is:-  am865ws4575%$&hgjgf
+[Android_Z50 INFO ] 2020-05-25 19:32:34.131 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:36.791 BasePage:75 - Mobile Number is :-9848370141232
+[Android_Z50 INFO ] 2020-05-25 19:32:39.643 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:32:40.858 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:32:42.203 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:45.191 BasePage:75 - Full Name is:-  raja ram mohan ray kalyan pur situation moha saddam hussai hisbul kassab main poiny jahit sai ram sajan sing
+[Android_Z50 INFO ] 2020-05-25 19:32:48.111 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:50.666 BasePage:75 - Mobile Number is :-984837014
+[Android_Z50 INFO ] 2020-05-25 19:32:53.470 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:32:54.671 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:32:55.946 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:32:59.083 BasePage:75 - Full Name is:-  raja ram mohan ramnah mjhgt mhjg
+[Android_Z50 INFO ] 2020-05-25 19:33:02.590 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:05.216 BasePage:75 - Mobile Number is :-98483701
+[Android_Z50 INFO ] 2020-05-25 19:33:07.905 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:33:09.112 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:33:10.411 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:13.906 BasePage:75 - Full Name is:-  A
+[Android_Z50 INFO ] 2020-05-25 19:33:16.849 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:19.508 BasePage:75 - Mobile Number is :-9848
+[Android_Z50 INFO ] 2020-05-25 19:33:22.205 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:33:23.399 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:33:24.287 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:33:25.621 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:28.681 BasePage:75 - Full Name is:-  Am
+[Android_Z50 INFO ] 2020-05-25 19:33:31.648 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:34.227 BasePage:75 - Mobile Number is :-984837
+[Android_Z50 INFO ] 2020-05-25 19:33:37.085 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:33:38.258 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:33:39.523 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:42.503 BasePage:75 - Full Name is:-  Ami
+[Android_Z50 INFO ] 2020-05-25 19:33:45.332 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:47.942 BasePage:75 - Mobile Number is :-98483701
+[Android_Z50 INFO ] 2020-05-25 19:33:50.730 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:33:51.902 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:33:53.158 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:33:56.139 BasePage:75 - Full Name is:-  Amit
+[Android_Z50 INFO ] 2020-05-25 19:33:59.017 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:02.095 BasePage:75 - Mobile Number is :-98
+[Android_Z50 INFO ] 2020-05-25 19:34:04.931 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:34:06.113 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:34:07.480 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:10.478 BasePage:75 - Full Name is:-  Ami
+[Android_Z50 INFO ] 2020-05-25 19:34:13.260 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:15.855 BasePage:75 - Mobile Number is :-984
+[Android_Z50 INFO ] 2020-05-25 19:34:18.486 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:34:19.659 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:34:20.897 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:23.766 BasePage:75 - Full Name is:-  Amit
+[Android_Z50 INFO ] 2020-05-25 19:34:26.695 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:29.424 BasePage:75 - Mobile Number is :-98483
+[Android_Z50 INFO ] 2020-05-25 19:34:32.237 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:34:33.414 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:34:34.651 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:37.471 BasePage:75 - Full Name is:-  Am@it
+[Android_Z50 INFO ] 2020-05-25 19:34:39.961 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:42.657 BasePage:75 - Mobile Number is :-984837@141
+[Android_Z50 INFO ] 2020-05-25 19:34:45.402 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:34:46.584 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:34:47.461 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:34:48.789 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:51.747 BasePage:75 - Full Name is:-  A..
+[Android_Z50 INFO ] 2020-05-25 19:34:54.334 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:34:57.121 BasePage:75 - Mobile Number is :-984837.141
+[Android_Z50 INFO ] 2020-05-25 19:34:59.862 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:35:01.713 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:35:02.976 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:06.302 BasePage:75 - Full Name is:-  ..A
+[Android_Z50 INFO ] 2020-05-25 19:35:09.082 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:15.318 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:19.059 BasePage:75 - Full Name is:-  .A
+[Android_Z50 INFO ] 2020-05-25 19:35:21.962 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:24.562 BasePage:75 - Mobile Number is :-984837.141
+[Android_Z50 INFO ] 2020-05-25 19:35:27.303 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:35:28.487 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:35:29.765 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:32.609 BasePage:75 - Full Name is:-  ..
+[Android_Z50 INFO ] 2020-05-25 19:35:35.276 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:37.915 BasePage:75 - Mobile Number is :-984837.141
+[Android_Z50 INFO ] 2020-05-25 19:35:40.666 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:35:41.838 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:35:43.214 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:46.118 BasePage:75 - Full Name is:-  .
+[Android_Z50 INFO ] 2020-05-25 19:35:48.601 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:35:51.501 BasePage:75 - Mobile Number is :-984837.141
+[Android_Z50 INFO ] 2020-05-25 19:35:54.189 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:35:55.363 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:35:56.190 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:35:57.527 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:00.399 BasePage:75 - Full Name is:-  Am$it
+[Android_Z50 INFO ] 2020-05-25 19:36:03.056 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:05.993 BasePage:75 - Mobile Number is :-984837$141
+[Android_Z50 INFO ] 2020-05-25 19:36:08.775 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:36:09.946 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:36:10.842 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:36:12.219 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:15.026 BasePage:75 - Full Name is:-  Am&it
+[Android_Z50 INFO ] 2020-05-25 19:36:17.942 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:20.597 BasePage:75 - Mobile Number is :-984837&141
+[Android_Z50 INFO ] 2020-05-25 19:36:23.359 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:36:24.576 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:36:25.421 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:36:26.758 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:29.573 BasePage:75 - Full Name is:-  Am*it
+[Android_Z50 INFO ] 2020-05-25 19:36:32.407 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:35.163 BasePage:75 - Mobile Number is :-984837*141
+[Android_Z50 INFO ] 2020-05-25 19:36:38.006 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:36:39.172 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:36:40.005 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:36:41.312 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:44.184 BasePage:75 - Full Name is:-  Am#it
+[Android_Z50 INFO ] 2020-05-25 19:36:46.678 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:49.357 BasePage:75 - Mobile Number is :-984837#141
+[Android_Z50 INFO ] 2020-05-25 19:36:52.223 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:36:53.379 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:36:54.255 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:36:55.605 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:36:58.381 BasePage:75 - Full Name is:-  Am%it
+[Android_Z50 INFO ] 2020-05-25 19:37:01.281 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:03.970 BasePage:75 - Mobile Number is :-984837%141
+[Android_Z50 INFO ] 2020-05-25 19:37:06.627 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:37:07.772 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:37:08.619 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:37:09.907 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:12.880 BasePage:75 - Full Name is:-  Am!it
+[Android_Z50 INFO ] 2020-05-25 19:37:15.805 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:18.398 BasePage:75 - Mobile Number is :-984837!141
+[Android_Z50 INFO ] 2020-05-25 19:37:21.060 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:37:22.225 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:37:23.053 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:37:24.401 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:27.370 BasePage:75 - Full Name is:-  Am~it
+[Android_Z50 INFO ] 2020-05-25 19:37:29.861 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:32.437 BasePage:75 - Mobile Number is :-984837~141
+[Android_Z50 INFO ] 2020-05-25 19:37:35.138 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:37:36.313 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:37:37.148 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:37:38.476 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:41.226 BasePage:75 - Full Name is:-  Am^it
+[Android_Z50 INFO ] 2020-05-25 19:37:43.751 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:46.293 BasePage:75 - Mobile Number is :-984837^141
+[Android_Z50 INFO ] 2020-05-25 19:37:49.099 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:37:50.250 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:37:51.126 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:37:52.421 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:37:55.316 BasePage:75 - Full Name is:-  Am{}it
+[Android_Z50 INFO ] 2020-05-25 19:37:58.218 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:01.273 BasePage:75 - Mobile Number is :-984837{}141
+[Android_Z50 INFO ] 2020-05-25 19:38:03.950 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:38:05.099 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:38:05.903 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:38:07.227 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:10.112 BasePage:75 - Full Name is:-  Am()it
+[Android_Z50 INFO ] 2020-05-25 19:38:13.123 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:15.635 BasePage:75 - Mobile Number is :-984837()141
+[Android_Z50 INFO ] 2020-05-25 19:38:18.342 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:38:19.506 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:38:20.367 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:38:21.662 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:24.551 BasePage:75 - Full Name is:-  Am(%)it
+[Android_Z50 INFO ] 2020-05-25 19:38:27.395 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:29.887 BasePage:75 - Mobile Number is :-984837(%)141
+[Android_Z50 INFO ] 2020-05-25 19:38:32.648 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:38:33.783 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:38:34.650 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:38:35.985 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:38.922 BasePage:75 - Full Name is:-  Am`it
+[Android_Z50 INFO ] 2020-05-25 19:38:41.379 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:44.028 BasePage:75 - Mobile Number is :-984837`141
+[Android_Z50 INFO ] 2020-05-25 19:38:46.705 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:38:47.856 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:38:48.725 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:38:49.996 BasePage:58 - press enter name edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:52.893 BasePage:75 - Full Name is:-  Am12it
+[Android_Z50 INFO ] 2020-05-25 19:38:55.600 BasePage:58 - press enter mobile number edit text
+[Android_Z50 INFO ] 2020-05-25 19:38:58.231 BasePage:75 - Mobile Number is :-984837`141
+[Android_Z50 INFO ] 2020-05-25 19:39:01.398 BasePage:58 - Press Register Continue button
+[Android_Z50 INFO ] 2020-05-25 19:39:02.511 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_Z50 INFO ] 2020-05-25 19:39:03.380 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_Z50 INFO ] 2020-05-25 19:39:21.140 BasePage:58 - press on title text
+[Android_Z50 INFO ] 2020-05-25 19:39:21.313 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Z50 INFO ] 2020-05-25 19:39:21.411 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Z50 INFO ] 2020-05-25 19:39:21.521 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Z50 INFO ] 2020-05-25 19:39:23.132 BasePage:58 - press on signin button
+[Android_Z50 INFO ] 2020-05-25 19:39:25.978 BasePage:101 - Language Page Title Text is :- Language
+[Android_Z50 INFO ] 2020-05-25 19:39:26.431 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Z50 INFO ] 2020-05-25 19:39:26.876 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Z50 INFO ] 2020-05-25 19:39:27.905 BasePage:58 - press on english language button
+[Android_Z50 INFO ] 2020-05-25 19:39:28.751 BasePage:58 - press on continue button signin
+[Android_Z50 INFO ] 2020-05-25 19:39:31.731 BasePage:101 - Permission page title is:- Permissions
+[Android_Z50 INFO ] 2020-05-25 19:39:32.826 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:39:34.608 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Z50 INFO ] 2020-05-25 19:39:34.660 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:40:25.294 BasePage:58 - press on title text
+[Android_Z50 INFO ] 2020-05-25 19:40:25.524 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Z50 INFO ] 2020-05-25 19:40:25.645 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Z50 INFO ] 2020-05-25 19:40:25.756 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Z50 INFO ] 2020-05-25 19:40:27.414 BasePage:58 - press on signin button
+[Android_Z50 INFO ] 2020-05-25 19:40:30.269 BasePage:101 - Language Page Title Text is :- Language
+[Android_Z50 INFO ] 2020-05-25 19:40:30.711 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Z50 INFO ] 2020-05-25 19:40:31.149 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Z50 INFO ] 2020-05-25 19:40:32.163 BasePage:58 - press on english language button
+[Android_Z50 INFO ] 2020-05-25 19:40:32.976 BasePage:58 - press on continue button signin
+[Android_Z50 INFO ] 2020-05-25 19:40:35.972 BasePage:101 - Permission page title is:- Permissions
+[Android_Z50 INFO ] 2020-05-25 19:40:37.063 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:40:38.473 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Z50 INFO ] 2020-05-25 19:40:38.510 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:40:39.548 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Z50 INFO ] 2020-05-25 19:40:39.594 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:40:40.596 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Z50 INFO ] 2020-05-25 19:40:40.668 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:40:41.648 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:40:41.691 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:40:44.448 BasePage:101 - Sign in With Gmail and Facebook page Title Text is:- Sign in
+[Android_Z50 INFO ] 2020-05-25 19:40:45.315 BasePage:58 - press on signin with gmail button
+[Android_Z50 INFO ] 2020-05-25 19:40:51.518 BasePage:101 - Gmail Page Title Text is:-Choose an account
+[Android_Z50 INFO ] 2020-05-25 19:41:41.469 BasePage:58 - press on title text
+[Android_Z50 INFO ] 2020-05-25 19:41:41.682 BasePage:101 - Sign up/Sign in Page Title Text is :- SmartCoin
+[Android_Z50 INFO ] 2020-05-25 19:41:41.785 BasePage:101 - Sign up/Sign in Page carousel Text is :- Easy loans for anything you need
+[Android_Z50 INFO ] 2020-05-25 19:41:41.893 BasePage:101 - Sign up/Sign in Page Sign In Text is :- Already a member? 
+[Android_Z50 INFO ] 2020-05-25 19:41:43.589 BasePage:58 - press on signin button
+[Android_Z50 INFO ] 2020-05-25 19:41:46.440 BasePage:101 - Language Page Title Text is :- Language
+[Android_Z50 INFO ] 2020-05-25 19:41:46.871 BasePage:101 - Language Page Title Text is :- Please Select your Language
+[Android_Z50 INFO ] 2020-05-25 19:41:47.355 BasePage:101 - Language Page Title Text is :- You can always change this in Language Settings
+[Android_Z50 INFO ] 2020-05-25 19:41:48.375 BasePage:58 - press on english language button
+[Android_Z50 INFO ] 2020-05-25 19:41:49.194 BasePage:58 - press on continue button signin
+[Android_Z50 INFO ] 2020-05-25 19:41:52.397 BasePage:101 - Permission page title is:- Permissions
+[Android_Z50 INFO ] 2020-05-25 19:41:52.908 BasePage:101 - Give us the okay key Text is :- Give us the okay
+[Android_Z50 INFO ] 2020-05-25 19:41:53.031 BasePage:101 - Give us the okay value Text is :- Smartcoin uses financial data on your phone to unlock suitable loan offers. By continuing, you also agree to our Privacy policy and Terms & Conditions.
+[Android_Z50 INFO ] 2020-05-25 19:41:53.570 BasePage:101 - Sms Key text is :- Financial Sms
+[Android_Z50 INFO ] 2020-05-25 19:41:54.084 BasePage:101 - Financial sms value Text is :- We collect and monitor financial SMS to create a financial summary for your profile, which includes only financial and transactional SMS about bank related transactions, name of transacting parties, description of the transaction, amount of transaction for performing credit risk assessment - all to provide the best loan offers; and to keep the loan process convenient and seamless. We store this financial information on our secure servers. No personal SMS data is ever collected, read or stored by our app.
+[Android_Z50 INFO ] 2020-05-25 19:42:02.087 BasePage:101 - Contacts Key text is:Located by By.chained({By.xpath: //android.widget.TextView[@text='Contacts' and @index='0']})Contacts
+[Android_Z50 INFO ] 2020-05-25 19:42:03.120 BasePage:101 - Contacts Value Text is:Located by By.chained({By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TextView[2]})Our app needs permission to detect your contacts' information, that includes name, phone number, account type, modifications to contact, favorites and other optional data to enrich your financial profile and provide a better understanding of your creditworthiness. We use this information to unlock better loan offers and provide a better user experience for certain features in the app.
+[Android_Z50 INFO ] 2020-05-25 19:42:08.960 BasePage:101 - Phone Key Text Is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Phone' and @index='0']})Phone
+[Android_Z50 INFO ] 2020-05-25 19:42:12.615 BasePage:101 - Phone Value Text is: Located by By.chained({By.xpath: //android.widget.TextView[@text='Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.' and @index='1']})Our app collects and monitors specific information about your device including your hardware model, RAM, storage, unique device identifiers like IMEI, serial number, SSAID, SIM information that includes network operator, roaming state, MNC and MCC codes, WIFI information that includes MAC address and mobile network information to uniquely identify devices and to prevent fraud. This also helps in enriching your credit profile and providing you with the best loan offers according to your profile.
+[Android_Z50 INFO ] 2020-05-25 19:42:21.315 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:42:22.797 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Z50 INFO ] 2020-05-25 19:42:22.853 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:23.922 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Z50 INFO ] 2020-05-25 19:42:23.986 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:25.020 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Z50 INFO ] 2020-05-25 19:42:25.065 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:26.066 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:42:26.129 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:27.914 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Z50 INFO ] 2020-05-25 19:42:30.561 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:42:31.957 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to send and view SMS messages?
+[Android_Z50 INFO ] 2020-05-25 19:42:32.001 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:42:33.085 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Z50 INFO ] 2020-05-25 19:42:33.139 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:34.138 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Z50 INFO ] 2020-05-25 19:42:34.203 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:35.208 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:42:35.279 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:36.994 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Z50 INFO ] 2020-05-25 19:42:39.743 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:42:41.059 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access your contacts?
+[Android_Z50 INFO ] 2020-05-25 19:42:41.112 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:42:42.092 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Z50 INFO ] 2020-05-25 19:42:42.170 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:43.176 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:42:43.217 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:44.966 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Z50 INFO ] 2020-05-25 19:42:47.638 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:42:49.007 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to make and manage phone calls?
+[Android_Z50 INFO ] 2020-05-25 19:42:49.055 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:42:50.161 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:42:50.215 BasePage:58 - press on deny button
+[Android_Z50 INFO ] 2020-05-25 19:42:51.959 BasePage:101 - Permission Warning Text is :- This is for verification purposes only. Please enable your required permissions and help us serve you better.
+[Android_Z50 INFO ] 2020-05-25 19:42:54.678 BasePage:58 - press agree and continue button
+[Android_Z50 INFO ] 2020-05-25 19:42:56.057 BasePage:101 - Title of  permission Message is:- Allow SmartCoin to access this device's location?
+[Android_Z50 INFO ] 2020-05-25 19:42:56.119 BasePage:58 - press on allow button
+[Android_Z50 INFO ] 2020-05-25 19:42:59.146 BasePage:101 - Sign in With Gmail and Facebook page Title Text is:- Sign in

@@ -20,6 +20,8 @@ public class CapabilitiesManager {
            caps.setCapability(MobileCapabilityType.APPLICATION_NAME, params.getPlatformName());
            caps.setCapability(MobileCapabilityType.UDID, params.getUdid());
            caps.setCapability(MobileCapabilityType.DEVICE_NAME, params.getDeviceName());
+           caps.setCapability(MobileCapabilityType.FULL_RESET, props.getProperty("fullReset"));
+           caps.setCapability(MobileCapabilityType.NO_RESET,props.getProperty("noReset"));
 
            switch (params.getPlatformName()){
                case "Android":

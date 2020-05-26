@@ -11,15 +11,39 @@ public class GlobalParams {
     private  static ThreadLocal<String> chromDriverPort = new ThreadLocal<String>();
     private  static ThreadLocal<String> wdaLocalPort = new ThreadLocal<String>();
     private  static ThreadLocal<String> webkitDebugProxyPort = new ThreadLocal<String>();
+    private  static ThreadLocal<Boolean> fullReset = new ThreadLocal<Boolean>();
+    private  static ThreadLocal<Boolean> noReset = new ThreadLocal<Boolean>();
+
+
+    public void setFullReset(Boolean fullReset1){
+    fullReset.set(fullReset1);
+      }
+
+      public Boolean getFullReset(){
+        return fullReset.get();
+      }
+
+      public void setNoReset(Boolean noReset1){
+          noReset.set(noReset1);
+      }
+
+    public  Boolean getNoReset(){
+
+        return noReset.get();
+     }
 
 
     public void setPlatformName(String platformName1){
+
         platformName.set(platformName1);
     }
     public String getPlatformName(){
+
         return platformName.get();
     }
-    public  void setUdid(String udid1){ udid.set(udid1); }
+    public  void setUdid(String udid1){
+        udid.set(udid1);
+    }
     public String getUdid(){
         return  udid.get();
     }

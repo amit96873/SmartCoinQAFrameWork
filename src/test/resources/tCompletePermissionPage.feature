@@ -84,7 +84,11 @@ Feature: Complete Permission Page Check
     Then  i should get Access of Location Message as"<LMsg>"
     And i clicked on Allow Button
     Then  i should get Login With Gmail and FaceBook Page Title as"<title>"
-    And i closed the App
     Examples:
       | sms |CMsg|CMMsg|LMsg|title|warning|
       |Allow SmartCoin to send and view SMS messages?|Allow SmartCoin to access your contacts?|Allow SmartCoin to make and manage phone calls?|Allow SmartCoin to access this device's location?|Sign in|This is for verification purposes only. Please enable your required permissions and help us serve you better.|
+
+  Scenario Outline: closed App
+  Given i closed the App
+    Examples:
+      |  |

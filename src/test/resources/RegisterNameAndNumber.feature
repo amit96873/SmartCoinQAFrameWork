@@ -309,8 +309,50 @@ Feature: Checked Register With Name And Number By enter Different input
     And  i enter invalid mobile number as"<number>"
     And  i clicked on continue button
     Then registration should failed with Mobile Number Error message"<error1>" and Name Error message"<error2>"
-    And i closed the App
     Examples:
       | name | number | error1 | error2|
       |Am12it|984837`141| Invalid Mobile No.|invalid name|
+
+  Scenario Outline: Register with valid name and mobile number
+    When  i enter invalid name as"<name>"
+    And  i enter invalid mobile number as"<number>"
+    And  i clicked on continue button
+    Then registration should passed and jump to the permission Page with title"<title>"
+    Examples:
+      | name | number |title|
+      |Amit Kumar|8073420765|Permissions|
+
+  Scenario Outline: Check Allow Button And Texts
+    When i clicked on Agree And Continue Button
+    Then  i should Get Sms Permission Message as"<sms>"
+    And i clicked on Allow Button
+    Then  i should get Access of Contacts Message As"<CMsg>"
+    And i clicked on Allow Button
+    Then i should get Manage Phone Calls Message As"<CMMsg>"
+    And i clicked on Allow Button
+    Then  i should get Access of Location Message as"<LMsg>"
+    And i clicked on Allow Button
+    Then  i should get Sign up With Gmail Page Title as"<title>"
+    Examples:
+      | sms | CMsg | CMMsg | LMsg | title |
+      |Allow SmartCoin to send and view SMS messages?|Allow SmartCoin to access your contacts?|Allow SmartCoin to make and manage phone calls?|Allow SmartCoin to access this device's location?|Sign up|
+
+  Scenario Outline: Check Sign UP With Gmail
+    When i clicked on sign up with gmail
+    Then i should get gmail page with title"<title>"
+    And i clicked on gmail id
+#    Then i should get Create Password Page with title"<CTitle>"
+    And i enter one two three four as password
+    Then i should get confirm password pas with title"<CFTitle>"
+    And i enter one two three four as confirm password
+    Then  i should get Home Page Of SmartCoin with Title"<HTitle>"
+    Examples:
+      | title | CTitle | CFTitle | HTitle |
+      | Choose an account | Create a 4-digit Pin | Confirm your 4-digit Pin | SmartCoin |
+
+  Scenario Outline: closed App
+    Given i closed the App
+    Examples:
+      |  |
+
 
