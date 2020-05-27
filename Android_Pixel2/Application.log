@@ -1,53 +1,42 @@
-[Android_pixel2 INFO ] 2020-05-27 15:13:27.290 ServerManager:20 - starting appium server
-[Android_pixel2 INFO ] 2020-05-27 15:13:29.832 ServerManager:29 - Appium server started
-[Android_pixel2 INFO ] 2020-05-27 15:13:29.875 DriverManager:30 - initializing Appium Driver
-[Android_pixel2 INFO ] 2020-05-27 15:13:29.906 PropertyManager:15 - loading config properties
-[Android_pixel2 INFO ] 2020-05-27 15:13:29.907 CapabilitiesManager:18 - getting Capabilities
-[Android_pixel2 INFO ] 2020-05-27 15:13:29.910 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
-[Android_pixel2 INFO ] 2020-05-27 15:13:43.537 DriverManager:42 - driver is initialized
-[Android_pixel2 INFO ] 2020-05-27 15:13:47.960 BasePage:58 - press on signup button
-[Android_pixel2 INFO ] 2020-05-27 15:13:50.569 BasePage:58 - press on english language button
-[Android_pixel2 INFO ] 2020-05-27 15:13:51.338 BasePage:58 - press on continue button signup
-[Android_pixel2 INFO ] 2020-05-27 15:13:53.733 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:13:55.919 BasePage:75 - Full Name is:-  Am@#2it
-[Android_pixel2 INFO ] 2020-05-27 15:13:57.854 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:13:59.835 BasePage:75 - Mobile Number is :-9848370141
-[Android_pixel2 INFO ] 2020-05-27 15:14:02.491 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:03.455 BasePage:101 - Error Full Name Text is :- Invalid Name
-[Android_pixel2 INFO ] 2020-05-27 15:14:04.604 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:06.786 BasePage:75 - Full Name is:-  Amit Kumar
-[Android_pixel2 INFO ] 2020-05-27 15:14:08.934 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:10.977 BasePage:75 - Mobile Number is :-98@#233465
-[Android_pixel2 INFO ] 2020-05-27 15:14:12.872 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:13.857 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
-[Android_pixel2 INFO ] 2020-05-27 15:14:14.899 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:16.931 BasePage:75 - Full Name is:-  *&dfg45Am(8it5*
-[Android_pixel2 INFO ] 2020-05-27 15:14:18.990 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:21.002 BasePage:75 - Mobile Number is :-98gh46tr%$gdh$%
-[Android_pixel2 INFO ] 2020-05-27 15:14:22.881 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:23.884 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
-[Android_pixel2 INFO ] 2020-05-27 15:14:24.475 BasePage:101 - Error Full Name Text is :- Invalid Name
-[Android_pixel2 INFO ] 2020-05-27 15:14:25.640 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:27.697 BasePage:75 - Full Name is:-  
-[Android_pixel2 INFO ] 2020-05-27 15:14:29.385 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:31.355 BasePage:75 - Mobile Number is :-
-[Android_pixel2 INFO ] 2020-05-27 15:14:33.168 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:34.213 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
-[Android_pixel2 INFO ] 2020-05-27 15:14:34.646 BasePage:101 - Error Full Name Text is :- Invalid Name
-[Android_pixel2 INFO ] 2020-05-27 15:14:35.707 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:37.926 BasePage:75 - Full Name is:-  
-[Android_pixel2 INFO ] 2020-05-27 15:14:39.817 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:41.777 BasePage:75 - Mobile Number is :-9hsuw54672
-[Android_pixel2 INFO ] 2020-05-27 15:14:43.978 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:44.857 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
-[Android_pixel2 INFO ] 2020-05-27 15:14:45.271 BasePage:101 - Error Full Name Text is :- Invalid Name
-[Android_pixel2 INFO ] 2020-05-27 15:14:46.354 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:48.348 BasePage:75 - Full Name is:-  am86575%$&hgjgf
-[Android_pixel2 INFO ] 2020-05-27 15:14:50.452 BasePage:58 - press enter mobile number edit text
-[Android_pixel2 INFO ] 2020-05-27 15:14:52.719 BasePage:75 - Mobile Number is :-
-[Android_pixel2 INFO ] 2020-05-27 15:14:54.719 BasePage:58 - Press Register Continue button
-[Android_pixel2 INFO ] 2020-05-27 15:14:55.776 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
-[Android_pixel2 INFO ] 2020-05-27 15:14:56.167 BasePage:101 - Error Full Name Text is :- Invalid Name
-[Android_pixel2 INFO ] 2020-05-27 15:14:57.212 BasePage:58 - press enter name edit text
-[Android_pixel2 INFO ] 2020-05-27 15:15:00.097 BasePage:75 - Full Name is:-  am865ws4575%$&hgjgf
-[Android_pixel2 INFO ] 2020-05-27 15:15:02.390 BasePage:58 - press enter mobile number edit text
+[Android_pixel2 INFO ] 2020-05-27 15:43:12.334 ServerManager:20 - starting appium server
+[Android_pixel2 INFO ] 2020-05-27 15:43:15.519 ServerManager:29 - Appium server started
+[Android_pixel2 INFO ] 2020-05-27 15:43:15.520 DriverManager:30 - initializing Appium Driver
+[Android_pixel2 INFO ] 2020-05-27 15:43:15.544 PropertyManager:15 - loading config properties
+[Android_pixel2 INFO ] 2020-05-27 15:43:15.546 CapabilitiesManager:18 - getting Capabilities
+[Android_pixel2 INFO ] 2020-05-27 15:43:15.549 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
+[Android_pixel2 INFO ] 2020-05-27 15:43:31.129 DriverManager:42 - driver is initialized
+[Android_pixel2 INFO ] 2020-05-27 15:43:36.324 BasePage:58 - press on signup button
+[Android_pixel2 INFO ] 2020-05-27 15:43:39.890 BasePage:58 - press on english language button
+[Android_pixel2 INFO ] 2020-05-27 15:43:40.715 BasePage:58 - press on continue button signup
+[Android_pixel2 INFO ] 2020-05-27 15:43:43.224 BasePage:58 - press enter name edit text
+[Android_pixel2 INFO ] 2020-05-27 15:43:45.581 BasePage:75 - Full Name is:-  Am@#2it
+[Android_pixel2 INFO ] 2020-05-27 15:43:47.588 BasePage:58 - press enter mobile number edit text
+[Android_pixel2 INFO ] 2020-05-27 15:43:49.548 BasePage:75 - Mobile Number is :-9848370141
+[Android_pixel2 INFO ] 2020-05-27 15:43:51.766 BasePage:58 - Press Register Continue button
+[Android_pixel2 INFO ] 2020-05-27 15:43:52.805 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_pixel2 INFO ] 2020-05-27 15:43:54.531 VideoManager:35 - video path: Android_pixel2\Videos\Sign up with invalid name and valid mobile number.mp4
+[Android_pixel2 INFO ] 2020-05-27 15:43:55.812 BasePage:58 - press enter name edit text
+[Android_pixel2 INFO ] 2020-05-27 15:43:58.576 BasePage:75 - Full Name is:-  Amit Kumar
+[Android_pixel2 INFO ] 2020-05-27 15:44:01.322 BasePage:58 - press enter mobile number edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:03.511 BasePage:75 - Mobile Number is :-98@#233465
+[Android_pixel2 INFO ] 2020-05-27 15:44:05.659 BasePage:58 - Press Register Continue button
+[Android_pixel2 INFO ] 2020-05-27 15:44:06.599 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_pixel2 INFO ] 2020-05-27 15:44:08.111 VideoManager:35 - video path: Android_pixel2\Videos\Sign up with Valid name and Invalid mobile number.mp4
+[Android_pixel2 INFO ] 2020-05-27 15:44:09.395 BasePage:58 - press enter name edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:11.946 BasePage:75 - Full Name is:-  *&dfg45Am(8it5*
+[Android_pixel2 INFO ] 2020-05-27 15:44:13.982 BasePage:58 - press enter mobile number edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:16.502 BasePage:75 - Mobile Number is :-98gh46tr%$gdh$%
+[Android_pixel2 INFO ] 2020-05-27 15:44:18.423 BasePage:58 - Press Register Continue button
+[Android_pixel2 INFO ] 2020-05-27 15:44:19.387 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_pixel2 INFO ] 2020-05-27 15:44:19.729 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_pixel2 INFO ] 2020-05-27 15:44:21.208 VideoManager:35 - video path: Android_pixel2\Videos\Sign up with Invalid name and Invalid mobile number.mp4
+[Android_pixel2 INFO ] 2020-05-27 15:44:22.606 BasePage:58 - press enter name edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:25.334 BasePage:75 - Full Name is:-  
+[Android_pixel2 INFO ] 2020-05-27 15:44:28.738 BasePage:58 - press enter mobile number edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:31.179 BasePage:75 - Mobile Number is :-
+[Android_pixel2 INFO ] 2020-05-27 15:44:33.102 BasePage:58 - Press Register Continue button
+[Android_pixel2 INFO ] 2020-05-27 15:44:34.145 BasePage:101 - Error Mobile Number Text is:- Invalid Mobile No.
+[Android_pixel2 INFO ] 2020-05-27 15:44:34.548 BasePage:101 - Error Full Name Text is :- Invalid Name
+[Android_pixel2 INFO ] 2020-05-27 15:44:36.111 VideoManager:35 - video path: Android_pixel2\Videos\Sign up with empty name and empty mobile number.mp4
+[Android_pixel2 INFO ] 2020-05-27 15:44:37.422 BasePage:58 - press enter name edit text
+[Android_pixel2 INFO ] 2020-05-27 15:44:39.882 BasePage:75 - Full Name is:-  
