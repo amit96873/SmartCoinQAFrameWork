@@ -1,11 +1,10 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class MyKhataAmountGivenPage extends BaseTest{
+public class MyKhataAmountGivenPage extends BasePage{
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Amount Given' and @index='1']") private MobileElement amountgiventitletext;
 	@AndroidFindBy (id = "in.rebase.app:id/chat_shortcut") private MobileElement chatbtn;
 	@AndroidFindBy (id = "in.rebase.app:id/date") private MobileElement datebtn;

@@ -1,12 +1,11 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 import com.qa.utils.TestUtils;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class MyKhataUserWillPayWillGetPage extends BaseTest {
+public class MyKhataUserWillPayWillGetPage extends BasePage {
 
 	TestUtils utils = new TestUtils();
 	@AndroidFindBy (xpath = "//android.widget.ImageButton[@content-desc='Open' and @index='0']") private MobileElement menubtn;

@@ -1,11 +1,11 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
+
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class SelectAddressDocumentsPage extends BaseTest{
+public class SelectAddressDocumentsPage extends BasePage{
 
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Select Address Document' and @index='0']") private MobileElement adressdocumentpagetitletext;	
 	@AndroidFindBy (xpath = "//android.widget.RadioButton[@text='Aadhaar back' and @index='0']") private MobileElement aadharbackbtn;	

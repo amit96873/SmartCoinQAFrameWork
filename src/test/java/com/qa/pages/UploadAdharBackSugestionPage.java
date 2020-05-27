@@ -1,11 +1,10 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class UploadAdharBackSugestionPage extends BaseTest {
+public class UploadAdharBackSugestionPage extends BasePage {
 
 
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='How to upload your Aadhaar Card (Back)?' and @index='0']") private MobileElement aadharbacktitletext;

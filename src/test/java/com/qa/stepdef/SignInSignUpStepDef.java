@@ -350,23 +350,5 @@ public class SignInSignUpStepDef {
         new PermissionPage().pressCheckBoxDontAskAgain();
     }
 
-    @When("i open the app")
-    public void iOpenTheApp() {
-       new EnterPasswordPage();
 
-    }
-
-    @Then("i should get enter Password Page with title{string}")
-    public void iShouldGetEnterPasswordPageWithTitle(String title) {
-        Assert.assertTrue(new EnterPasswordPage().getTitleEnterPassword().equalsIgnoreCase(title));
-    }
-
-    @When("i enter one two three four as enter password")
-    public void iEnterOneTwoThreeFourAsEnterPassword() {
-        new EnterPasswordPage().pressOne();
-        new EnterPasswordPage().pressTwo();
-        new EnterPasswordPage().pressThree();
-        new EnterPasswordPage().pressFour4();
-
-    }
 }

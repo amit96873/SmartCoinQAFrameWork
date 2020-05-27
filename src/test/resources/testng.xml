@@ -2,27 +2,26 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" parallel="tests">
 
-    <test name="Redmi">
-        <parameter name="platformName" value="Android" />
-        <parameter name="udid" value="86f8e4640906" />
-        <parameter name="deviceName" value="Redmi Dual_8A" />
-        <parameter name="systemPort" value="10000" />
-        <parameter name="chromeDriverPort" value="11000" />
-        <classes>
-            <class name="com.qa.runners.MyRedmi8AMyTestNGRunnerTest"></class>
-        </classes>
-    </test>
-
-<!--    <test name="Z50">-->
+<!--    <test name="Redmi">-->
 <!--        <parameter name="platformName" value="Android" />-->
-<!--        <parameter name="udid" value="Z50418GA426239" />-->
-<!--        <parameter name="deviceName" value="Z50" />-->
-<!--        <parameter name="systemPort" value="10001" />-->
-<!--        <parameter name="chromeDriverPort" value="11001" />-->
+<!--        <parameter name="udid" value="86f8e4640906" />-->
+<!--        <parameter name="deviceName" value="Redmi Dual_8A" />-->
+<!--        <parameter name="systemPort" value="10000" />-->
+<!--        <parameter name="chromeDriverPort" value="11000" />-->
 <!--        <classes>-->
-<!--            <class name="com.qa.runners.MyPixel2AMyTestNGRunnerTest"></class>-->
+<!--            <class name="com.qa.runners.MyRedmi8AMyTestNGRunnerTest"></class>-->
 <!--        </classes>-->
 <!--    </test>-->
 
+    <test name="pixel2">
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="emulator-5554" />
+        <parameter name="deviceName" value="pixel2" />
+        <parameter name="systemPort" value="10001" />
+        <parameter name="chromeDriverPort" value="11001" />
+        <classes>
+            <class name="com.qa.runners.MyPixel2AMyTestNGRunnerTest"></class>
+        </classes>
+    </test>
 
 </suite> <!-- Suite -->

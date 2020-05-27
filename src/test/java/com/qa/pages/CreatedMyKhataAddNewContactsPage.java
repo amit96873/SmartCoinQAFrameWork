@@ -1,12 +1,11 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 import com.qa.utils.TestUtils;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class CreatedMyKhataAddNewContactsPage extends BaseTest {
+public class CreatedMyKhataAddNewContactsPage extends BasePage {
 
 	TestUtils utils = new TestUtils();
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Add New Contact' and @index='0']") private MobileElement addnewcontactspagetitle;

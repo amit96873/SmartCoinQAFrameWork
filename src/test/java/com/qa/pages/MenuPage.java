@@ -1,11 +1,10 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class MenuPage extends BaseTest {
+public class MenuPage extends BasePage {
 
 
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Welcome!' and @index='1']") private MobileElement menuepagetitletext;

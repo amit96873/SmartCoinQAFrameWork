@@ -1,12 +1,12 @@
 
 package com.qa.pages;
 
-import com.qa.BaseTest;
+
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class TermsAndConditionsPage extends BaseTest {
+public class TermsAndConditionsPage extends BasePage {
 
 
 	@AndroidFindBy (id = "in.rebase.app:id/negative_button") private MobileElement dismisspvcbutton;

@@ -1,0 +1,6 @@
+[Android_Pixel2A INFO ] 2020-05-27 14:40:05.422 ServerManager:20 - starting appium server
+[Android_Pixel2A INFO ] 2020-05-27 14:40:08.504 ServerManager:29 - Appium server started
+[Android_Pixel2A INFO ] 2020-05-27 14:40:08.554 DriverManager:30 - initializing Appium Driver
+[Android_Pixel2A INFO ] 2020-05-27 14:40:08.598 PropertyManager:15 - loading config properties
+[Android_Pixel2A INFO ] 2020-05-27 14:40:08.600 CapabilitiesManager:18 - getting Capabilities
+[Android_Pixel2A INFO ] 2020-05-27 14:40:08.605 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk

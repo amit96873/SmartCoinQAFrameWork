@@ -1,12 +1,12 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
+
 import com.qa.utils.TestUtils;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class MyKhataEnterAccountNamePersionalPage extends BaseTest {
+public class MyKhataEnterAccountNamePersionalPage extends BasePage {
 	TestUtils utils = new TestUtils();
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Enter Account Name' and @index='0']") private MobileElement enteraccountnametitletext;
 	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;

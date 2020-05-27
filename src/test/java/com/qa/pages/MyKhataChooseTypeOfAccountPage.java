@@ -1,11 +1,10 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class MyKhataChooseTypeOfAccountPage extends BaseTest{
+public class MyKhataChooseTypeOfAccountPage extends BasePage{
 
 
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Choose type of Account' and @index='0']") private MobileElement choosetypeofaccounttletext;

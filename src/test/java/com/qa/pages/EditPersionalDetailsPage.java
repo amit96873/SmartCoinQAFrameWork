@@ -1,14 +1,12 @@
 package com.qa.pages;
 
 import org.openqa.selenium.By;
-
-import com.qa.BaseTest;
 import com.qa.utils.TestUtils;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class EditPersionalDetailsPage extends BaseTest{
+public class EditPersionalDetailsPage extends BasePage{
 
 	TestUtils utils = new TestUtils();
 	@AndroidFindBy (id = "in.rebase.app:id/name") private MobileElement enternametext;
@@ -34,14 +32,6 @@ public class EditPersionalDetailsPage extends BaseTest{
 	public String getEditPersionalDetailsTitleText() {
 		String title = getText(editpersionaldetailstitletext, "Edit Persional Details Page Title is:- ");
 		return title;
-	}
-	public void scrollUp() {
-		BaseTest bt=new BaseTest();
-		bt.scrollToElement(areyoumarriedtext, "up");	
-	}
-	public void scrollDown() {
-		BaseTest bt=new BaseTest();
-		bt.scrollToElement(fullnametext, "down");	
 	}
 
 	public SelectDOBPage pressDOBSpinner() {

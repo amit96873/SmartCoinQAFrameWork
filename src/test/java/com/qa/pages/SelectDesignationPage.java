@@ -1,11 +1,11 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
+
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class SelectDesignationPage extends BaseTest{
+public class SelectDesignationPage extends BasePage{
 
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='DESIGNATION' and @index='0']") private MobileElement Designationpagetitletext;
 	@AndroidFindBy (xpath = "//android.widget.EditText[@text='Start typing to search...' and @index='0']") private MobileElement serchedittext;

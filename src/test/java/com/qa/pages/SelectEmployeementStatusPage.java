@@ -1,11 +1,10 @@
 package com.qa.pages;
 
-import com.qa.BaseTest;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
-public class SelectEmployeementStatusPage extends BaseTest{
+public class SelectEmployeementStatusPage extends BasePage{
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='EMPLOYMENT STATUS' and @index='0']") private MobileElement employeementstatuspagetitletext;	
 	@AndroidFindBy (xpath = "//android.widget.Button[@text='BUSINESS OWNER - SHOP' and @index='0']") private MobileElement selectshopowner;
 	@AndroidFindBy (xpath = "//android.widget.Button[@text='BUSINESS OWNER - OTHER' and @index='0']") private MobileElement selectshoownerother;
