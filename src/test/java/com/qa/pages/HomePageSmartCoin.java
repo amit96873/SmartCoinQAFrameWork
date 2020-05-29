@@ -18,6 +18,10 @@ public class HomePageSmartCoin extends BasePage{
     @AndroidFindBy (xpath = "//android.widget.TextView[@text='My Khata' and @index='1']") private MobileElement mykhata;
     @AndroidFindBy (xpath = "//android.widget.TextView[@text='My Profile' and @index='1']") private MobileElement myprofile;
     @AndroidFindBy (xpath = "//android.widget.TextView[@text='Contact Us' and @index='1']") private MobileElement contactus;
+    @AndroidFindBy (id = "in.rebase.app:id/card_sub_title") private MobileElement myloanoffersvaluetext;
+    @AndroidFindBy (id = "in.rebase.app:id/home_subtitle") private MobileElement mycoinsvaluetext;
+    @AndroidFindBy (xpath = "//android.widget.TextView[@text='My Utilities' and @index='1']") private MobileElement myutilitykeytext;
+
 
 
     public String getTitleHomePage() {
@@ -25,19 +29,35 @@ public class HomePageSmartCoin extends BasePage{
         return title;
     }
 
-    public String getMyCoinText() {
-        String text = getText(mycointext, "My Coin Text is:- ");
+    public String getMyLoanOffersValueText() {
+        String text = getText(myloanoffersvaluetext, "My loan offers value Text is:- ");
         return text;
 
     }
 
-    public String getTotalCoinBalanceText() {
-        String text = getText(totalcoinbalancetext, "Total Coin Balance Text is:- ");
+    public String getMyCoinValueText() {
+        String text = getText(mycoinsvaluetext, "My Coin value Text is:- ");
+        return text;
+
+    }
+
+    public String getMyUtilityKeyText() throws Exception {
+        return getText(scrollToElement(myutilitykeytext,"up"),"my utility test is : "+myutilitykeytext);
+    }
+
+    public String getMyCoinKeyText() {
+        String text = getText(mycointext, "My Coin key Text is:- ");
+        return text;
+
+    }
+
+    public String getTotalCoinBalanceKeyText() {
+        String text = getText(totalcoinbalancetext, "Total Coin Balance key Text is:- ");
         return text;
     }
 
-    public String getMyLoanOfferText() {
-        String text = getText(myloanoffertitletext, "My Loan Offer Tet is:- ");
+    public String getMyLoanOfferKeyText() {
+        String text = getText(myloanoffertitletext, "My Loan Offer key Tet is:- ");
         return text;
 
     }
@@ -51,16 +71,16 @@ public class HomePageSmartCoin extends BasePage{
         return new ApplyForLoan();
     }
 
-    public MyKhataPage pressMyKhataBtn() {
-        click(mykhata,"Press On My Khata Button");
+    public MyKhataPage pressMyKhataBtn() throws Exception {
+        click(scrollToElement(mykhata,"up"),"clicked on my khata button");
         return new MyKhataPage();
     }
-    public MyProfilePage pressMyProfileBtn() {
-        click(myprofile,"Press On My Profile Button");
+    public MyProfilePage pressMyProfileBtn() throws Exception {
+        click(scrollToElement(myprofile,"up"),"clicked on my profile button");
         return new MyProfilePage();
     }
-    public HelpAndSupportPage pressContactUsBtn() {
-        click(contactus,"Press On Contact_Us Button");
+    public HelpAndSupportPage pressContactUsBtn() throws Exception {
+        click(scrollToElement(contactus,"up"),"clicked on contact us button");
         return new HelpAndSupportPage();
     }
 
