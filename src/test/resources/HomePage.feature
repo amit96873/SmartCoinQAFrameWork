@@ -20,7 +20,7 @@ Feature: check home page button
     Then i should get menu page with title"<title>"
     Examples:
       | title |
-      |Welcome|
+      |Welcome!|
 
   Scenario Outline: check chat short cut button of home page
    Given : i clicked on home button of menu page to get back on home page
@@ -31,7 +31,7 @@ Feature: check home page button
       |SmartCoin Customer Support|
 
    Scenario Outline: check Earn button of home page
-     Given i clicked reverse button to get back on home page
+     Given i clicked reverse button of chat page to get back on home page
      When i clicked on Earn button
      Then  i should get smartCoin rewards Page with title"<title>"
      Examples:
@@ -39,7 +39,7 @@ Feature: check home page button
        |Smartcoin Rewards|
 
    Scenario Outline: check My khata button of home page
-     Given i clicked reverse button to get back on home page
+     Given i clicked reverse button of SmartCoin Rewards page to get back on home page
      When  i clicked on my khata button
      Then i should get my khata page with title"<title>"
      Examples:
@@ -47,7 +47,7 @@ Feature: check home page button
        |Khata|
 
    Scenario Outline: check my profile button of home page
-     Given i clicked reverse button to get back on home page
+     Given i clicked reverse button of My Khata page to get back on home page
      When i clicked on my profile button
      Then i should get my profile page with title"<title>"
      Examples:
@@ -55,7 +55,7 @@ Feature: check home page button
        |My Profile|
 
    Scenario Outline: check contact us button of home page
-     Given i clicked reverse button to get back on home page
+     Given i clicked reverse button of my profile page to get back on home page
      When i clicked on contact us button of home page
      Then i should get help and Support Page with title"<title>"
      Examples:

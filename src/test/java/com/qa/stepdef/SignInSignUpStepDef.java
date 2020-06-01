@@ -403,8 +403,8 @@ public class SignInSignUpStepDef {
         Assert.assertTrue(new ChatPage().getTitlechatPageTitle().equalsIgnoreCase(title));
     }
 
-    @Given("i clicked reverse button to get back on home page")
-    public void iClickedReverseButtonToGetBackOnHomePage() {
+    @Given("i clicked reverse button of chat page to get back on home page")
+    public void iClickedReverseButtonOfChatPageToGetBackOnHomePage() {
         new ChatPage().pressReverseBtn();
     }
 
@@ -446,5 +446,20 @@ public class SignInSignUpStepDef {
     @Then("i should get help and Support Page with title{string}")
     public void iShouldGetHelpAndSupportPageWithTitle(String title) {
         Assert.assertTrue(new HelpAndSupportPage().getHelpAndSupportPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of SmartCoin Rewards page to get back on home page")
+    public void iClickedReverseButtonOfSmartCoinRewardsPageToGetBackOnHomePage() {
+        new SmartCoinRewardsPage().pressReverseButton();
+    }
+
+    @Given("i clicked reverse button of My Khata page to get back on home page")
+    public void iClickedReverseButtonOfMyKhataPageToGetBackOnHomePage() {
+        new MyKhataPage().pressReverseBtn();
+    }
+
+    @Given("i clicked reverse button of my profile page to get back on home page")
+    public void iClickedReverseButtonOfMyProfilePageToGetBackOnHomePage() {
+        new MyProfilePage().pressReverseBtn();
     }
 }

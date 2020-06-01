@@ -23,8 +23,8 @@ public class Hooks {
         new ServerManager().startServer();
         new DriverManager().initializeDriver();*/
         new VideoManager().startRecording();
-        byte[] screenshot = new DriverManager().getDriver().getScreenshotAs(OutputType.BYTES);
-        scenario.embed(screenshot, "image/png", scenario.getName());
+//        byte[] screenshot = new DriverManager().getDriver().getScreenshotAs(OutputType.BYTES);
+//        scenario.embed(screenshot, "image/png", scenario.getName());
     }
 
 

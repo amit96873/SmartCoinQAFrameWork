@@ -13,7 +13,7 @@ import io.cucumber.testng.CucumberOptions;
                 , "summary"
                 , "de.monochromata.cucumber.report.PrettyReports:target/Redmi_Dual_8A/cucumber-html-reports"}
         ,features = {"src/test/resources/HomePage.feature"}
-        ,glue = {"com.qa.stepdef"}
+        ,glue = {"com.qa.mainStepDef"}
         ,dryRun=false
         ,monochrome=true
         ,strict=true

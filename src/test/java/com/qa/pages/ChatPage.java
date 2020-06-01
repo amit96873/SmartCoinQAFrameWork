@@ -11,7 +11,7 @@ public class ChatPage extends BasePage{
 	@AndroidFindBy (id = "in.rebase.app:id/chat_sdk_btn_chat_send_message") private MobileElement messagesendbtn;
 	@AndroidFindBy (id = "in.rebase.app:id/chat_sdk_et_message_to_send") private MobileElement messageedittext;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='SmartCoin Customer Support' and @index='1']") private MobileElement chatpagetitletext;
-	@AndroidFindBy (xpath = "//android.widget.ImageButton[@content-desc='‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‎‎‎‎‏‏‏‏‏‏‏‎‏‏‏‏‏‎‏‎‎‏‏‎‏‎‎‎‎‎‏‏‏‎‏‎‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‏‏‏‏‏‎‎Navigate up‎‏‎‎‏‎' and @index='0']") private MobileElement reversebtn;
+	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;
 	@AndroidFindBy (xpath = "//android.widget.ImageButton[@content-desc='‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‏‏‎‎‎‎‏‏‏‏‏‏‏‎‏‏‏‏‏‎‏‎‎‏‏‎‏‎‎‎‎‎‏‏‏‎‏‎‎‎‎‎‏‏‎‏‏‎‎‏‎‏‎‏‏‏‏‏‎‎Message option button' and @index='0']") private MobileElement messaageoptionbutton;
 
 
