@@ -63,8 +63,6 @@ Feature: check home page button
        |EMAIL US|
 
 
-Feature Check Menu Page Buttons
-
 
 
 

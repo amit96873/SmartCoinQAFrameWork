@@ -1,13 +1,7 @@
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:41:59.833 ServerManager:20 - starting appium server
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:04.127 ServerManager:29 - Appium server started
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:04.220 DriverManager:30 - initializing Appium Driver
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:04.276 PropertyManager:15 - loading config properties
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:04.278 CapabilitiesManager:18 - getting Capabilities
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:04.282 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:23.650 DriverManager:42 - driver is initialized
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:28.947 BasePage:58 - press on signup button
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:31.668 BasePage:58 - press on english language button
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:32.918 BasePage:58 - press on continue button signup
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:35.658 BasePage:58 - press enter name edit text
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:42:38.602 BasePage:75 - Full Name is:-  Am@#2it
-[Android_Redmi Dual_8A INFO ] 2020-05-28 10:43:18.026 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\Sign up with invalid name and valid mobile number.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:47.926 ServerManager:20 - starting appium server
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:51.154 ServerManager:29 - Appium server started
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:51.213 DriverManager:30 - initializing Appium Driver
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:51.244 PropertyManager:15 - loading config properties
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:51.246 CapabilitiesManager:18 - getting Capabilities
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:41:51.249 CapabilitiesManager:36 - appUrl isC:\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
+[Android_Redmi Dual_8A INFO ] 2020-06-01 15:42:08.238 DriverManager:42 - driver is initialized
