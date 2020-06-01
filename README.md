@@ -6,7 +6,6 @@ appium-cucumberbdd-testng
 Cucumber-JVM + Appium + TestNG + Page Object Model with Parallel Execution!
 
 Tools and Technologies
-
 Cucumber JVM
 Gherkin
 Appium
@@ -15,9 +14,7 @@ Maven
 Log4J2
 TestNG
 IntelliJ
-
 Framework features
-
 Page Object Model Design
 Supports Android and iOS
 Behavioral Driven
@@ -35,7 +32,6 @@ Cucumber JVM: https://cucumber.io/docs/installation/java/
 Ccumber JUnit: https://cucumber.io/docs/cucumber/api/#junit
 Gherkin basics: https://cucumber.io/docs/gherkin/reference/
 Step Management: https://cucumber.io/docs/gherkin/step-organization/
-
 Log4J2
 log4j2 configurations (GitHub): https://github.com/amit96873/log4j2_properties
 
