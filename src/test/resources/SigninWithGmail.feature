@@ -1,4 +1,4 @@
-@test
+#@test
 Feature: Sign in Text Quality check with gmail
 
   Scenario Outline: Check Text on sign in page

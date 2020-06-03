@@ -1,4 +1,4 @@
-@test
+#@test
 Feature: Checked Register With Name And Number By enter Different input
   Scenario Outline: Sign up with invalid name and valid mobile number
     Given Open SmartCoin App and clicked on sign up button then got language page select english language and clicked on continue button then get Registration page

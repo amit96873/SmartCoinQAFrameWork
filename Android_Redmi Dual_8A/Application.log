@@ -1,38 +1,46 @@
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:25.835 ServerManager:20 - starting appium server
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:28.985 ServerManager:29 - Appium server started
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:29.021 DriverManager:30 - initializing Appium Driver
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:29.057 PropertyManager:15 - loading config properties
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:29.058 CapabilitiesManager:18 - getting Capabilities
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:29.062 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:46.470 DriverManager:42 - driver is initialized
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:53.220 BasePage:101 - Enter Password Page Title Text is:- Located by By.chained({By.xpath: //android.widget.TextView[@text='Enter your 4-digit Pin' and @index='0']})Enter your 4-digit Pin
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:56.096 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\Check launching app after sign in sign up.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:57.600 BasePage:58 - Press On Digit One(1)
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:42:59.025 BasePage:58 - Press On Digit Two(2)
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:00.341 BasePage:58 - Press On Digit Three(3)
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:02.452 BasePage:58 - Press On Digit Four(4)
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:06.985 BasePage:101 - Home Page Title Text is :- SmartCoin
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:09.516 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Enter password page and get home page.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:10.873 BasePage:58 - Press On Menu Button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:13.807 BasePage:101 - Menu Page Title Text is :- Welcome!
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:15.908 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Menu Button.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:17.356 BasePage:58 - Press on Home button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:19.290 BasePage:58 - Press On Home Page Short Cut Button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:25.111 BasePage:101 - Chat Page Title Text Is:- SmartCoin Customer Support
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:27.840 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check chat short cut button of home page.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:29.047 BasePage:58 - Press On Reverse Button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:29.963 BasePage:58 - Press On Earn Button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:32.286 BasePage:101 - SmartCoin Reward Page title text is:- Smartcoin Rewards
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:34.722 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Earn button of home page.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:36.083 BasePage:58 - press on reverse button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:41.251 BasePage:58 - clicked on my khata button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:43.018 BasePage:101 - My Khata Page Title is:- Khata
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:45.669 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check My khata button of home page.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:46.892 BasePage:58 - press on reverse button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:51.770 BasePage:58 - clicked on my profile button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:54.096 BasePage:101 - My Profile Page Title Text is:- My Profile
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:56.040 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check my profile button of home page.mp4
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:43:57.526 BasePage:58 - press reverse button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:44:01.406 BasePage:58 - clicked on contact us button
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:44:03.177 BasePage:101 - Help And Support Page Title Text is:- EMAIL US
-[Android_Redmi Dual_8A INFO ] 2020-06-01 17:44:05.793 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check contact us button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:52.773 ServerManager:20 - starting appium server
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:55.991 ServerManager:29 - Appium server started
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:56.042 DriverManager:30 - initializing Appium Driver
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:56.070 PropertyManager:15 - loading config properties
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:56.074 CapabilitiesManager:18 - getting Capabilities
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:39:56.078 CapabilitiesManager:36 - appUrl isC:\QA\SmartCoinQAFrameWork\src\test\resources\apps\app-release.apk
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:14.835 DriverManager:42 - driver is initialized
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:28.273 BasePage:101 - Enter Password Page Title Text is:- Located by By.chained({By.xpath: //android.widget.TextView[@text='Enter your 4-digit Pin' and @index='0']})Enter your 4-digit Pin
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:32.356 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\Check launching app after sign in sign up.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:33.794 BasePage:58 - Press On Digit One(1)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:35.226 BasePage:58 - Press On Digit Two(2)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:36.668 BasePage:58 - Press On Digit Three(3)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:38.042 BasePage:58 - Press On Digit Four(4)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:42.624 BasePage:101 - Home Page Title Text is :- SmartCoin
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:45.573 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Enter password page and get home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:46.897 BasePage:58 - Press On Menu Button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:49.630 BasePage:101 - Menu Page Title Text is :- Welcome!
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:52.915 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Menu Button.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:54.962 BasePage:58 - Press on Home button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:40:56.807 BasePage:58 - Press On Home Page Short Cut Button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:02.893 BasePage:101 - Chat Page Title Text Is:- SmartCoin Customer Support
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:06.780 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check chat short cut button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:07.890 BasePage:58 - Press On Reverse Button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:08.752 BasePage:58 - Press On Earn Button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:11.368 BasePage:101 - SmartCoin Reward Page title text is:- Smartcoin Rewards
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:15.203 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Earn button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:16.494 BasePage:58 - press on reverse button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:21.749 BasePage:58 - clicked on my khata button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:24.100 BasePage:101 - My Khata Page Title is:- Khata
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:27.078 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check My khata button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:28.167 BasePage:58 - press on reverse button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:32.555 BasePage:58 - clicked on my profile button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:34.715 BasePage:101 - My Profile Page Title Text is:- My Profile
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:38.409 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check my profile button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:40.089 BasePage:58 - press reverse button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:44.078 BasePage:58 - clicked on contact us button
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:45.810 BasePage:101 - Help And Support Page Title Text is:- EMAIL US
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:41:49.340 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check contact us button of home page.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:00.721 BasePage:101 - Enter Password Page Title Text is:- Located by By.chained({By.xpath: //android.widget.TextView[@text='Enter your 4-digit Pin' and @index='0']})Enter your 4-digit Pin
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:03.218 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\Check launching app after sign in sign up for Menu Button Check.mp4
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:04.363 BasePage:58 - Press On Digit One(1)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:05.418 BasePage:58 - Press On Digit Two(2)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:06.420 BasePage:58 - Press On Digit Three(3)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:07.395 BasePage:58 - Press On Digit Four(4)
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:11.575 BasePage:101 - Home Page Title Text is :- SmartCoin
+[Android_Redmi Dual_8A INFO ] 2020-06-03 16:42:14.361 VideoManager:35 - video path: Android_Redmi Dual_8A\Videos\check Enter password page and get home page for Menu Button Check.mp4

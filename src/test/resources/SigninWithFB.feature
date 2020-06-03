@@ -1,4 +1,4 @@
-@test
+#@test
 Feature: Sign in Text Quality check With Facebook
 
   Scenario Outline: Check Text on sign in page

@@ -62,6 +62,12 @@ Feature: check home page button
        | title |
        |EMAIL US|
 
+  Scenario Outline: closed App
+    Given i closed the Home App
+    Examples:
+      |  |
+
+
 
 
 

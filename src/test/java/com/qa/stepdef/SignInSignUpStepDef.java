@@ -1,13 +1,9 @@
 package com.qa.stepdef;
 import com.qa.pages.*;
-import io.appium.java_client.AppiumDriver;
-import io.cucumber.java.af.En;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.cucumber.java.jv.Lan;
-import net.bytebuddy.asm.Advice;
 import org.junit.Assert;
 
 public class SignInSignUpStepDef {
