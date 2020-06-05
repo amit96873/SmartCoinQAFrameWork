@@ -17,6 +17,7 @@ public class MenuPage extends BasePage {
 	@AndroidFindBy (xpath = "//android.widget.CheckedTextView[@text='FAQ' and @index='0']") private MobileElement faqbtn;
 	@AndroidFindBy (xpath = "//android.widget.CheckedTextView[@text='Language Settings' and @index='0']") private MobileElement languagesettingbtn;
 	@AndroidFindBy (xpath = "//android.widget.CheckedTextView[@text='Troubleshoot' and @index='0']") private MobileElement troubleshootbtn;
+	@AndroidFindBy (xpath = "//android.widget.CheckedTextView[@text='My Referrals' and @index='0']") private MobileElement myrefferalsbtn;
 
 
 
@@ -24,6 +25,11 @@ public class MenuPage extends BasePage {
 	public String getTitleMenuePage() {
 		String title = getText(menuepagetitletext, "Menu Page Title Text is :- ");
 		return title;
+	}
+
+	public MyReferralsPage pressMyReferralsBtn() {
+		click(myrefferalsbtn,"Press on My Referrals button");
+		return new MyReferralsPage();
 	}
 
 	public HomePageSmartCoin pressHomeBtn() {

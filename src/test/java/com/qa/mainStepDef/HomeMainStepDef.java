@@ -1,9 +1,11 @@
 package com.qa.mainStepDef;
 
 import com.qa.pages.*;
+import io.cucumber.java.da.Men;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.apache.commons.codec.language.bm.Languages;
 import org.junit.Assert;
 
 public class HomeMainStepDef {
@@ -129,5 +131,120 @@ public class HomeMainStepDef {
     @Given("i closed the Home App")
     public void iClosedTheHomeApp() {
         new HomePageSmartCoin().closeApp();
+    }
+
+    @When("i clicked on my loan button")
+    public void iClickedOnMyLoanButton() {
+        new MenuPage().pressMyLoanBtn();
+    }
+
+    @Then("i should get my loans page with title {string}")
+    public void iShouldGetMyLoansPageWithTitle(String title) {
+        Assert.assertTrue(new MyLoansPage().getMyloanPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of my loans page to get back on home page")
+    public void iClickedReverseButtonOfMyLoansPageToGetBackOnHomePage() {
+        new MyLoansPage().pressReverseBtn();
+    }
+
+    @When("i clicked on all transaction button")
+    public void iClickedOnAllTransactionButton() {
+        new MenuPage().pressAllTransactionBtn();
+    }
+
+    @Then("i should get All transaction page with title {string}")
+    public void iShouldGetAllTransactionPageWithTitle(String title) {
+        Assert.assertTrue(new AllTransactionPage().getAllTransactionPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of All Transaction page to get back on home page")
+    public void iClickedReverseButtonOfAllTransactionPageToGetBackOnHomePage() {
+        new AllTransactionPage().pressReverseBtn();
+    }
+
+    @When("i clicked on help and support button")
+    public void iClickedOnHelpAndSupportButton() {
+        new MenuPage().pressHelpAndSupportBtn();
+    }
+
+    @Given("i clicked reverse button of Help And Support page to get back on home page")
+    public void iClickedReverseButtonOfHelpAndSupportPageToGetBackOnHomePage() {
+        new HelpAndSupportPage().pressReverseBtn();
+    }
+
+    @When("i clicked on FAQ button")
+    public void iClickedOnFAQButton() {
+        new MenuPage().pressFAQBtn();
+    }
+
+    @Then("i should get FAQ page with title {string}")
+    public void iShouldGetFAQPageWithTitle(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of FAQ page to get back on home page")
+    public void iClickedReverseButtonOfFAQPageToGetBackOnHomePage() {
+        new FAQPage().pressReverseBtn();
+    }
+
+    @When("i clicked on language setting button")
+    public void iClickedOnLanguageSettingButton() {
+        new MenuPage().pressLanguageSettingBtn();
+    }
+
+    @Then("i should get language setting page with title {string}")
+    public void iShouldGetLanguageSettingPageWithTitle(String title) {
+        Assert.assertTrue(new LanguageSettingPage().getLanguagePageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of language settings page to get back on home page")
+    public void iClickedReverseButtonOfLanguageSettingsPageToGetBackOnHomePage() {
+        new LanguageSettingPage().pressReverseBtn();
+    }
+
+    @When("i clicked on Troubleshoot button")
+    public void iClickedOnTroubleshootButton() {
+        new MenuPage().pressTroubleShootBtn();
+    }
+
+    @Then("i should get Troubleshoot page with title {string}")
+    public void iShouldGetTroubleshootPageWithTitle(String title) {
+        Assert.assertTrue(new TroubleShootPage().getTroubleshootPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of troubleshoot page to get back on home page")
+    public void iClickedReverseButtonOfTroubleshootPageToGetBackOnHomePage() {
+        new TroubleShootPage().pressReverseBtn();
+    }
+
+    @When("i clicked on my referrals button")
+    public void iClickedOnMyReferralsButton() {
+        new MenuPage().pressMyReferralsBtn();
+    }
+
+    @Then("i should get my referrals page with title {string}")
+    public void iShouldGetMyReferralsPageWithTitle(String title) {
+        Assert.assertTrue(new MyReferralsPage().getMyReferralsPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked reverse button of my referrals page to get back on home page")
+    public void iClickedReverseButtonOfMyReferralsPageToGetBackOnHomePage() {
+        new MyReferralsPage().pressReverseBtn();
+    }
+
+    @When("i clicked on my bank details page")
+    public void iClickedOnMyBankDetailsPage() {
+        new MenuPage().pressMyBankDetailsBtnToGetBankAccountPendingPage();
+    }
+
+    @Then("i should get bank account pending page with title {string}")
+    public void iShouldGetBankAccountPendingPageWithTitle(String title) {
+        Assert.assertTrue(new BankAccountPendingPage().getBankAccountPendingPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my profile button of menu page")
+    public void iClickedOnMyProfileButtonOfMenuPage() {
+        new MenuPage().pressMyProfileBtn();
     }
 }
