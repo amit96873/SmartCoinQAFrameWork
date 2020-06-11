@@ -247,4 +247,98 @@ public class HomeMainStepDef {
     public void iClickedOnMyProfileButtonOfMenuPage() {
         new MenuPage().pressMyProfileBtn();
     }
+
+//    -------------------------------------------FAQ STEP DEF -----------------------------------------------
+//    -------------------------------------------FAQ STEP DEF -----------------------------------------------
+
+    @Given("i clicked on English language")
+    public void iClickedOnEnglishLanguage() {
+        new FAQPage().pressOnEnglish();
+    }
+
+    @When("i clicked on about smartCoin section")
+    public void iClickedOnAboutSmartCoinSection() {
+        new FAQPage().pressOnAboutSmartCoin();
+    }
+
+    @Then("i should get About smartCoin Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetAboutSmartCoinQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked on close button")
+    public void iClickedOnCloseButton() {
+        new FAQPage().pressOnClose();
+    }
+
+    @When("i clicked on my registration section")
+    public void iClickedOnMyRegistrationSection() {
+        new FAQPage().pressOnMyRegistration();
+    }
+
+    @Then("i should get my registration Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyRegistrationQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Profile section")
+    public void iClickedOnMyProfileSection() {
+        new FAQPage().pressOnMyProfile();
+    }
+
+    @Then("i should get my Profile Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyProfileQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Documents section")
+    public void iClickedOnMyDocumentsSection() {
+        new FAQPage().pressOnMyKYCDocuments();
+        
+    }
+
+    @Then("i should get my Documents Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyDocumentsQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Loan Offers section")
+    public void iClickedOnMyLoanOffersSection() {
+        new FAQPage().pressOnMyLoanOffer();
+    }
+
+    @Then("i should get my Loan Offers Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyLoanOffersQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Payments section")
+    public void iClickedOnMyPaymentsSection() {
+        new FAQPage().pressOnMyPayments();
+    }
+
+    @Then("i should get my Payments Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyPaymentsQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Coins section")
+    public void iClickedOnMyCoinsSection() {
+        new FAQPage().pressOnMyCoins();
+    }
+
+    @Then("i should get my Coins Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyCoinsQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on my Khata section")
+    public void iClickedOnMyKhataSection() {
+        new FAQPage().pressOnMyKhata();
+    }
+
+    @Then("i should get my Khata Questions answers page in english that we can see in screenshot and title is {string}")
+    public void iShouldGetMyKhataQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
 }

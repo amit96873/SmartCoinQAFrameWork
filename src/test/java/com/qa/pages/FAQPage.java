@@ -5,23 +5,8 @@ import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
 public class FAQPage extends BasePage {
-	
-	
-	@AndroidFindBy (xpath = "//android.widget.TextView[@text='FAQ' and @index='0']") private MobileElement faqtitletext;
-	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;
-	@AndroidFindBy (id = "in.rebase.app:id/chat_shortcut") private MobileElement chatbtn;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='ABOUT SMARTCOIN' and @index='0']") private MobileElement aboutsmartcoin;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY REGISTRATION' and @index='0']") private MobileElement myregestration;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY PROFILE and @index='0']") private MobileElement myprofile;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY KYC DOCUMENTS' and @index='0']") private MobileElement mykycdocuments;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY LOAN OFFERS' and @index='0']") private MobileElement myloanoffers;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY PAYMENTS' and @index='0']") private MobileElement mypayments;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY COINS & REWARDS' and @index='0']") private MobileElement mycoins;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='MY KHATA' and @index='0']") private MobileElement mykhata;
-	@AndroidFindBy(xpath = "//android.view.View[@content_desc='Close' and @index='2']") private MobileElement close;
-	@AndroidFindBy (xpath = "//android.view.View[@text='English' and @index='0']") private MobileElement english;
-	@AndroidFindBy (xpath = "//android.view.View[@text='हिंदी' and @index='2']") private MobileElement hindi;
-	@AndroidFindBy (xpath = "//android.view.View[@text='ಕನ್ನಡ' and @index='4']") private MobileElement kanada;
+
+
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='What is SmartCoin?' and @index='0']") private MobileElement aboutsmartcoinquection1english;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='How does SmartCoin work?' and @index='0']") private MobileElement aboutsmartcoinquection2english;
 	@AndroidFindBy (xpath = "//android.view.View[@text='SmartCoin is a mobile application based online loan provider which makes it easier for anyone to borrow cash in a fast and convenient manner. We believe getting a loan should be an easy and pleasant experience, just like online shopping, and not tiring or embarrassing. SmartCoin is like a friend you can borrow from without hesitation. In fact, the more you borrow and repay on time, the better it becomes for you.' and @index='1']") private MobileElement aboutsmartcoinanswer1english;
@@ -43,6 +28,23 @@ public class FAQPage extends BasePage {
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='When my CIBIL Score will be updated?' and @index='0']") private MobileElement mypaymentsofferquectionlastenglish;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='What is the “My Coins” section?' and @index='0']") private MobileElement mycoinsquectionfirstenglish;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='How do I use my coins?' and @index='0']") private MobileElement mycoinsofferquectionlastenglish;
+
+
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='FAQ' and @index='0']") private MobileElement faqtitletext;
+	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;
+	@AndroidFindBy (id = "in.rebase.app:id/chat_shortcut") private MobileElement chatbtn;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='ABOUT SMARTCOIN' and @index='1']") private MobileElement aboutsmartcoin;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY REGISTRATION' and @index='1']") private MobileElement myregestration;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY PROFILE and @index='0']") private MobileElement myprofile;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY KYC DOCUMENTS' and @index='1']") private MobileElement mykycdocuments;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY LOAN OFFERS' and @index='1']") private MobileElement myloanoffers;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY PAYMENTS' and @index='1']") private MobileElement mypayments;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY COINS & REWARDS' and @index='1']") private MobileElement mycoins;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY KHATA' and @index='1']") private MobileElement mykhata;
+	@AndroidFindBy(xpath = "//android.view.View[@text='' and @index='0']") private MobileElement close;
+	@AndroidFindBy (xpath = "//android.view.View[@text='English' and @index='0']") private MobileElement english;
+	@AndroidFindBy (xpath = "//android.view.View[@text='हिंदी' and @index='2']") private MobileElement hindi;
+	@AndroidFindBy (xpath = "//android.view.View[@text='ಕನ್ನಡ' and @index='4']") private MobileElement kanada;
 
 
 
