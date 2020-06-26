@@ -29,19 +29,18 @@ public class FAQPage extends BasePage {
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='What is the “My Coins” section?' and @index='0']") private MobileElement mycoinsquectionfirstenglish;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='How do I use my coins?' and @index='0']") private MobileElement mycoinsofferquectionlastenglish;
 
-
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='FAQ' and @index='0']") private MobileElement faqtitletext;
 	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;
 	@AndroidFindBy (id = "in.rebase.app:id/chat_shortcut") private MobileElement chatbtn;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='ABOUT SMARTCOIN' and @index='1']") private MobileElement aboutsmartcoin;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY REGISTRATION' and @index='1']") private MobileElement myregestration;
-	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY PROFILE and @index='0']") private MobileElement myprofile;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY PROFILE' and @index='1']") private MobileElement myprofile;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY KYC DOCUMENTS' and @index='1']") private MobileElement mykycdocuments;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY LOAN OFFERS' and @index='1']") private MobileElement myloanoffers;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY PAYMENTS' and @index='1']") private MobileElement mypayments;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY COINS & REWARDS' and @index='1']") private MobileElement mycoins;
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='MY KHATA' and @index='1']") private MobileElement mykhata;
-	@AndroidFindBy(xpath = "//android.view.View[@text='' and @index='0']") private MobileElement close;
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Close' and @index='1']") private MobileElement close;
 	@AndroidFindBy (xpath = "//android.view.View[@text='English' and @index='0']") private MobileElement english;
 	@AndroidFindBy (xpath = "//android.view.View[@text='हिंदी' and @index='2']") private MobileElement hindi;
 	@AndroidFindBy (xpath = "//android.view.View[@text='ಕನ್ನಡ' and @index='4']") private MobileElement kanada;

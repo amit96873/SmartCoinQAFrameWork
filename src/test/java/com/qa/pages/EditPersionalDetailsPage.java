@@ -26,12 +26,33 @@ public class EditPersionalDetailsPage extends BasePage{
 	@AndroidFindBy (id = "in.rebase.app:id/primary_action_text") private MobileElement continuebtn;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Are you married?' and @index='9']") private By areyoumarriedtext;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Full Name?' and @index='2']") private By fullnametext;
-
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Invalid Name' and @index='0']") private By errormessageofname;
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Invalid Mobile No.' and @index='0']") private By errormessageofmobilenumber;
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='This field is required' and @index='0']") private By errormessageofthisfieledisrequired;
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='Invalid pin code' and @index='0']") private By errormessageofpincode;
 
 
 	public String getEditPersionalDetailsTitleText() {
 		String title = getText(editpersionaldetailstitletext, "Edit Persional Details Page Title is:- ");
 		return title;
+	}
+	public String getFullNameErrorText(){
+		return getText(errormessageofname,"full name error text is:-"+errormessageofname);
+	}
+	public String getFathersNameErrorText(){
+		return getText(errormessageofname,"fathers name error text is:-"+errormessageofname);
+	}
+	public String getMothersNameErrorText(){
+		return getText(errormessageofname,"mothers name error text is:-"+errormessageofname);
+	}
+	public String getMobileNumberErrorText(){
+		return getText(errormessageofmobilenumber,"mobile number error text is:-"+errormessageofmobilenumber);
+	}
+	public String getCurrentAddressErrorText(){
+		return getText(errormessageofthisfieledisrequired,"current address error text is:-"+errormessageofthisfieledisrequired);
+	}
+	public String getPinCodeErrorText(){
+		return getText(errormessageofpincode,"pin code error text is:-"+errormessageofpincode);
 	}
 
 	public SelectDOBPage pressDOBSpinner() {

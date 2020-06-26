@@ -6,7 +6,8 @@ import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 
 public class MyProfilePage extends BasePage{
-
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='DESIGNATION' and @index='29']") private MobileElement designationtext;
+	@AndroidFindBy (xpath = "//android.widget.TextView[@text='CUSTOMER RELATIONSHIP NUMBER (CRN)' and @index='0']") private MobileElement crnnumber;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='My Profile' and @index='0']") private MobileElement myprofilestitletext;
 	@AndroidFindBy (xpath = "//android.widget.ImageButton[@text='' and @index='0']") private MobileElement reversebtn;
 	@AndroidFindBy (xpath = "//android.widget.TextView[@text='OWNER OF SHOP' and @index='0']") private MobileElement ownerofshoptext;
@@ -19,10 +20,26 @@ public class MyProfilePage extends BasePage{
 
 
 
+
 	public String getMyProfilePageTitle() {
 		String title = getText(myprofilestitletext, "My Profile Page Title Text is:- ");
 		return title;
 	}
+
+	public String getCRNText() throws Exception {
+		return getText(scrollToElement(crnnumber,"down"),"get crn number text");
+
+	}
+
+
+	public String getDesignationText() throws Exception {
+		return getText(scrollToElement(crnnumber,"up"),"get designation text");
+	}
+
+
+
+
+
 	public String getDocumentsUploadedConfirmationMessage() {
 		String msg = getText(documentsuploadedconfirmationmessage, "Documents upload confirmation Message is:- ");
 		return msg;

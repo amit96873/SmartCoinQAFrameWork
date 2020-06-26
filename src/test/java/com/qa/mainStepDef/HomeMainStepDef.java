@@ -2,11 +2,14 @@ package com.qa.mainStepDef;
 
 import com.qa.pages.*;
 import io.cucumber.java.da.Men;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.commons.codec.language.bm.Languages;
 import org.junit.Assert;
+
+import java.awt.*;
 
 public class HomeMainStepDef {
 
@@ -340,5 +343,131 @@ public class HomeMainStepDef {
     @Then("i should get my Khata Questions answers page in english that we can see in screenshot and title is {string}")
     public void iShouldGetMyKhataQuestionsAnswersPageInEnglishThatWeCanSeeInScreenshotAndTitleIs(String title) {
         Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked on reverse button")
+    public void iClickedOnReverseButton() {
+        new FAQPage().pressReverseBtn();
+    }
+
+    @Given("i clicked on Hindi language")
+    public void iClickedOnHindiLanguage() {
+        new FAQPage().pressOnHindi();
+    }
+
+    @Then("i should get About smartCoin Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetAboutSmartCoinQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my registration Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyRegistrationQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Profile Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyProfileQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Documents Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyDocumentsQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Loan Offers Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyLoanOffersQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Payments Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyPaymentsQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Coins Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyCoinsQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Khata Questions answers page in Hindi that we can see in screenshot and title is {string}")
+    public void iShouldGetMyKhataQuestionsAnswersPageInHindiThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Given("i clicked on kanda language")
+    public void iClickedOnKandaLanguage() {
+        new FAQPage().pressOnKanada();
+    }
+
+    @Then("i should get About smartCoin Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetAboutSmartCoinQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my registration Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyRegistrationQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Profile Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyProfileQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Documents Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyDocumentsQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Loan Offers Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyLoanOffersQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Payments Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyPaymentsQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Coins Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyCoinsQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @Then("i should get my Khata Questions answers page in kanda that we can see in screenshot and title is {string}")
+    public void iShouldGetMyKhataQuestionsAnswersPageInKandaThatWeCanSeeInScreenshotAndTitleIs(String title) {
+        Assert.assertTrue(new FAQPage().getFAQPageTitle().equalsIgnoreCase(title));
+    }
+
+    @And("i clicked on myprofile button")
+    public void iClickedOnMyprofileButton() {
+        new MenuPage().pressMyProfileBtn();
+    }
+
+
+    @Then("i should get menu main my profile page with title {string}")
+    public void iShouldGetMenuMainMyProfilePageWithTitle(String title) {
+        Assert.assertTrue(new MyProfilePage().getMyProfilePageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on menu button of my profile page")
+    public void iClickedOnMenuButtonOfMyProfilePage() {
+        new MyProfilePage().pressExpendMenueBtn();
+    }
+
+    @Then("i should get Expended menu button title as {string}")
+    public void iShouldGetExpendedMenuButtonTitleAs(String title) {
+        Assert.assertTrue(new ProfileExpendMenueButonPage().getMenueExpendPageTitle().equalsIgnoreCase(title));
+    }
+
+    @When("i clicked on edit personal details button")
+    public void iClickedOnEditPersonalDetailsButton() {
+        new ProfileExpendMenueButonPage().pressEditPersionalDetailsBtn();
+    }
+
+    @Then("i should get edit personal page title as {string}")
+    public void iShouldGetEditPersonalPageTitleAs(String title) {
+Assert.assertTrue(new EditPersionalDetailsPage().getEditPersionalDetailsTitleText().equalsIgnoreCase(title));
     }
 }

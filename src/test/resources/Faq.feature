@@ -33,7 +33,10 @@ Feature: Verification of FAQ Page
        | FAQ |
 
   Scenario Outline: verify My Registrations Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my registration section
     Then  i should get my registration Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -41,7 +44,10 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Profile Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Profile section
     Then  i should get my Profile Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -49,7 +55,10 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Documents Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Documents section
     Then  i should get my Documents Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -57,7 +66,10 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Loan Offers Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Loan Offers section
     Then  i should get my Loan Offers Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -65,7 +77,10 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Payments Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Payments section
     Then  i should get my Payments Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -73,7 +88,10 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Coins Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Coins section
     Then  i should get my Coins Questions answers page in english that we can see in screenshot and title is "<title>"
     Examples:
@@ -81,9 +99,191 @@ Feature: Verification of FAQ Page
       | FAQ |
 
   Scenario Outline: verify My Khata Section By Selecting English Language
-    Given i clicked on close button
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on English language
     When  i clicked on my Khata section
     Then  i should get my Khata Questions answers page in english that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+#    hindi
+  Scenario Outline: verify About SmartCoin Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    Given i clicked on Hindi language
+    When  i clicked on about smartCoin section
+    Then  i should get About smartCoin Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Registrations Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my registration section
+    Then  i should get my registration Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Profile Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Profile section
+    Then  i should get my Profile Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Documents Section By Selecting English Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Documents section
+    Then  i should get my Documents Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Loan Offers Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Loan Offers section
+    Then  i should get my Loan Offers Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Payments Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Payments section
+    Then  i should get my Payments Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Coins Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Coins section
+    Then  i should get my Coins Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Khata Section By Selecting Hindi Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on Hindi language
+    When  i clicked on my Khata section
+    Then  i should get my Khata Questions answers page in Hindi that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+#    kanda
+
+  Scenario Outline: verify About SmartCoin Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    Given i clicked on kanda language
+    When  i clicked on about smartCoin section
+    Then  i should get About smartCoin Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Registrations Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my registration section
+    Then  i should get my registration Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Profile Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Profile section
+    Then  i should get my Profile Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Documents Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Documents section
+    Then  i should get my Documents Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Loan Offers Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Loan Offers section
+    Then  i should get my Loan Offers Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Payments Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Payments section
+    Then  i should get my Payments Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Coins Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Coins section
+    Then  i should get my Coins Questions answers page in kanda that we can see in screenshot and title is "<title>"
+    Examples:
+      | title |
+      | FAQ |
+
+  Scenario Outline: verify My Khata Section By Selecting kanda Language
+    Given i clicked on reverse button
+    And  i clicked on menu button
+    And  i clicked on FAQ button
+    And  i clicked on kanda language
+    When  i clicked on my Khata section
+    Then  i should get my Khata Questions answers page in kanda that we can see in screenshot and title is "<title>"
     Examples:
       | title |
       | FAQ |
